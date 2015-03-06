@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My first post on JyKell
-excerpt: "I am attempting  to move my blog from Google's blogger to Jykell"
+title: My first post using Jekyll
+excerpt: "I am attempting  to move my blog from Google's blogger to Jekyll"
 categories: blog
 tags: [first-post, jykell, test]
 date: 2015-03-06
