@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Yan's notes
+title: Y notes
 locale: en_US
-description: My thoughts, ideas, tips, obseravtion and other random stuff
+description: thoughts, ideas, tips, obseravtion and other random stuff
 logo: myphoto.jpg
 search: true
 url: http://yansh.github.io
@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Yan
   avatar: myphoto.jpg
-  email: you@email.com
+  email: yansh@gmx.net
   disqus-shortname:
   twitter: Abrahadabra_
   facebook: #username
