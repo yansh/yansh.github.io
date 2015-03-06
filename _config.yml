@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: Yan's notes
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: My thoughts, ideas, tips, obseravtion and other random stuff
+logo: myphoto.jpg
 search: true
 url: http://yansh.github.io
 
