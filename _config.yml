@@ -32,12 +32,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Yan
-  avatar: bio-photo.jpg
+  avatar: myphoto.jpg
   email: you@email.com
   disqus-shortname:
-  twitter: #username
+  twitter: Abrahadabra_
   facebook: #username
-  github: #username
+  github: yansh
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
