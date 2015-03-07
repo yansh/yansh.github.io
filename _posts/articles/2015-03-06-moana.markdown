@@ -19,7 +19,7 @@ share: true
 
 > This post was originally published on October 24, 2012 as part of the submission to [Mozilla Ignite project](https://mozillaignite.org/apps/411/). This article was slighly amended.
 
-## What problem are you intending to solve?
+## What problem are we intending to solve?
 
 The  "packet with a label identifying the receiver'' model seems to be an ill fitting abstraction for popular Internet services provided by companies such as Google, Facebook, YouTube, or Twitter. These services are primarily about information dissemination and a suitable network service abstraction should really do more than deliver individual packets really, really fast.
 
@@ -41,9 +41,10 @@ From an implementation point of view, the graph is serialised into a set of n-tu
 
 
 
-![Moana service model]({{ site.url }}/images/Moana.png)
+
 <figure>
-<figcaption>"Figure 1: Moana service model"</figcaption>
+<img src="{{ site.url }}/images/Moana.png" alt="image">
+<figcaption><b>Figure 1: Moana service model</b></figcaption>
 </figure>
 
 ## How will end users interact with it, and how will they benefit?
@@ -73,4 +74,4 @@ Imaging trying to market a service which creates a presonalised diet plan based 
 ## Further information
 
 Feel free to contact any of the authors as well as read our [paper](http://dl.acm.org/citation.cfm?id=2676735).
-Feel free to contribute to the [github repo](https://github.com/yansh/MoanaML) and spread the word!
+You can also to contribute to the [github repo](https://github.com/yansh/MoanaML) and spread the word!
