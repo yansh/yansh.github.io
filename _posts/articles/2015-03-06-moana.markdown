@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moana - The Internet of Information"
-authors: 
+author: 
 - Max
 - Yan
 modified:
