@@ -20,7 +20,7 @@ In [another](http://blog.intercom.io/design-futures-1-creating-systems-not-produ
 
 First, little disclaimer to put this post in a context. [Max Ott](http://www.nicta.com.au/people/mott/) of [NICTA](http://www.nicta.com.au) and I, have been talking about the [Internet of Information](http://yansh.github.io/articles/moana/) for a few years now. We motivated our discussion by claiming that the current network service does not align well with how applications are built and used. 
 
-In this post, using the context provided by Paul Adams' post, I would like to speculate on how the future Internet service abstraction can better support current and future trends in application development.
+In this post, using the context provided by Paul Adams' post, I would like to speculate on how an information-centric  Internet service abstraction can better support current and future trends in application development.
 
 ## Apps as Information  Containers
 
