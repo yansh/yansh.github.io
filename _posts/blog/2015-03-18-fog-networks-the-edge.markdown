@@ -2,7 +2,7 @@
 layout: post
 title: "FOG Networks @ the EDGE - a personal roadmap draft" 
 modified:
-categories: posts
+categories: blog
 excerpt:
 tags: [FOG, networks, EDGE lab, Princeton]
 image:
