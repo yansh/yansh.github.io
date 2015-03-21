@@ -36,7 +36,7 @@ Paul seems to notice that as well:
 
 >  "In a world of many different screens and devices, content needs to be broken down into atomic units so that it can work agnostic of the screen size or technology platform. So Facebook is not a set of webpages, or screens in an app. It’s a system of __objects, and relationships between them__." 
 
-Exactly! Objects and relationships! In fact, you can represent everything using the this type of structure. It is not new. It’s called graph! [Semantic Web community](http://www.w3.org/standards/semanticweb/) has been trying to tell people and open their eyes to it for years, looking for the “killer” app to convert everyone. 
+Exactly! Objects and relationships! In fact, you can represent everything using the this type of structure. It is not new. It’s called graph! [Semantic Web community](http://www.w3.org/standards/semanticweb/) has been trying to tell people and open their eyes to it for years. They are still looking for the “killer” app to convert everyone. 
 
 Tim Berners Lee  has even wrote about it in [his blog](http://dig.csail.mit.edu/breadcrumbs/node/215) : 
 
