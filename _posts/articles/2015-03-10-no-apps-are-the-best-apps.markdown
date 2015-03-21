@@ -11,7 +11,7 @@ image:
   feature:
 date: 2015-03-10 
 ---
-
+v
 I recently came across an [article](http://blog.intercom.io/the-end-of-apps-as-we-know-them/) by [Paul Adam](https://twitter.com/padday) of Intercom, titled "THE END OF APPS AS WE KNOW THEM”. I found it interesting and insightful. Paul describes the on going evolution of the app design from "destination" silos on our devices into what is rapidly becoming systems of interconnected components. 
 
 In [another](http://blog.intercom.io/design-futures-1-creating-systems-not-products/), more in depth post, Paul writes:
@@ -46,7 +46,7 @@ So imagine an Internet as a global information repository. In this context, apps
 
 ### So what is missing? 
 
-The next step is the evolution is making the above type of applications easier and streamline the whole process.  There are mature standards, developed by the Semantic Web community, that enable to capture, query and reason over an information graph, however the underlying Internet architecture doesn’t know of their existence. Internet  was designed in the 70s with different goals in mind. Nobody envisioned the evolution of Interconnected computers networks into interconnected "everything". At the time, a couple of fundamental protocols were  enough to support all the application layer needed to operate. Although, this largely remains true today, as Internet still relies on the same network stack, most of the burdened is carried by the application layer. A veriety of custom software stacks on top of the network allow the giants of today's Internet to provide the their services. I think the following Figure  by [Geek&Poke](http://geekandpoke.typepad.com/geekandpoke/2012/03/thank-god-not-everything-is-software.html) depicts the resulting reality quiet nicely.
+The next step is the evolution is making the above type of applications easier and streamline the whole process.  There are mature standards, developed by the Semantic Web community, that enable to capture, query and reason over an information graph, however the underlying Internet architecture doesn’t know of their existence. Internet  was designed in the 70s with different goals in mind. Nobody envisioned the evolution of Interconnected computers networks into interconnected "everything". At the time, a couple of fundamental protocols were  enough to support all the application layer needed to operate. Although, this largely remains true today, as Internet still relies on the same network stack, most of the burdened is carried by the application layer. A variety of custom software stacks on top of the network allow the giants of today's Internet to provide their services. I think the following Figure  by [Geek&Poke](http://geekandpoke.typepad.com/geekandpoke/2012/03/thank-god-not-everything-is-software.html) depicts the resulting reality quiet nicely.
 
 <figure>
 <img src="/images/tgns.jpg" alt="image">
