@@ -11,8 +11,7 @@ image:
   feature:
 date: 2015-03-10 
 ---
-v
-I recently came across an [article](http://blog.intercom.io/the-end-of-apps-as-we-know-them/) by [Paul Adam](https://twitter.com/padday) of Intercom, titled "THE END OF APPS AS WE KNOW THEM”. I found it interesting and insightful. Paul describes the on going evolution of the app design from "destination" silos on our devices into what is rapidly becoming systems of interconnected components. 
+I recently came across an [article](http://blog.intercom.io/the-end-of-apps-as-we-know-them/) by [Paul Adam](https://twitter.com/padday) of Intercom, titled "THE END OF APPS AS WE KNOW THEM”. Paul describes the on going evolution of the app design from "destination" silos on our devices into what is rapidly becoming systems of interconnected components. 
 
 In [another](http://blog.intercom.io/design-futures-1-creating-systems-not-products/), more in depth post, Paul writes:
 
