@@ -11,8 +11,7 @@ image:
   feature:
 date: 2015-03-10 
 ---
-
-I recently came across an [article](http://blog.intercom.io/the-end-of-apps-as-we-know-them/) by [Paul Adam](https://twitter.com/padday) of Intercom, titled "THE END OF APPS AS WE KNOW THEM”. I found it interesting and insightful. Paul describes the on going evolution of the app design from "destination" silos on our devices into what is rapidly becoming systems of interconnected components. 
+I recently came across an [article](http://blog.intercom.io/the-end-of-apps-as-we-know-them/) by [Paul Adam](https://twitter.com/padday) of Intercom, titled "THE END OF APPS AS WE KNOW THEM”. Paul describes the on going evolution of the app design from "destination" silos on our devices into what is rapidly becoming systems of interconnected components. 
 
 In [another](http://blog.intercom.io/design-futures-1-creating-systems-not-products/), more in depth post, Paul writes:
 
@@ -36,9 +35,9 @@ Paul seems to notice that as well:
 
 >  "In a world of many different screens and devices, content needs to be broken down into atomic units so that it can work agnostic of the screen size or technology platform. So Facebook is not a set of webpages, or screens in an app. It’s a system of __objects, and relationships between them__." 
 
-Exactly! Objects and relationships! In fact, you can represent everything using the this type of structure. It is not new. It’s called graph! [Semantic Web community](http://www.w3.org/standards/semanticweb/) has been trying to tell people and open their eyes to it for years, looking for the “killer” app to convert everyone. 
+Exactly! Objects and relationships! In fact, you can represent everything using the this type of structure. It is not new. It’s called graph! [Semantic Web community](http://www.w3.org/standards/semanticweb/) has been trying to tell people and open their eyes to it for years. They are still looking for the “killer” app to convert everyone. 
 
-Tim Berners Lee  has even wrote about it in [his blog](http://dig.csail.mit.edu/breadcrumbs/node/215) : 
+Tim Berners-Lee  has even wrote about it in [his blog](http://dig.csail.mit.edu/breadcrumbs/node/215) : 
 
 >  "In the long term vision, thinking in terms of the graph rather than the web is critical to us making best use of the mobile web, the zoo of wildly differing devices which will give us access to the system."
 
@@ -46,7 +45,7 @@ So imagine an Internet as a global information repository. In this context, apps
 
 ### So what is missing? 
 
-The next step is the evolution is making the above type applications easier and streamline the whole process.  There are mature standards, developed by the Semantic Web community, that enable to capture, query and reason over an information graph, however the underlying Internet architecture doesn’t know of their existence. Internet  was designed in the 70s with different goals in mind. Nobody envisioned the evolution of Interconnected computers networks into interconnected "everything". At the time, a couple of fundamental protocols were  enough to support all the application layer needed to operate. Although, this largely remains true today, as Internet still relies on the same network stack, most of the burdened is carried by the application layer, with custom software stacks on top of the network which allows the giants of today's Internet to provide the services they able to facilitate today. I think the following Figure  by [Geek&Poke](http://geekandpoke.typepad.com/geekandpoke/2012/03/thank-god-not-everything-is-software.html) depicts the resulting reality quiet nicely.
+The next step is the evolution is making the above type of applications easier and streamline the whole process.  There are mature standards, developed by the Semantic Web community, that enable to capture, query and reason over an information graph, however the underlying Internet architecture doesn’t know of their existence. Internet  was designed in the 70s with different goals in mind. Nobody envisioned the evolution of Interconnected computers networks into interconnected "everything". At the time, a couple of fundamental protocols were  enough to support all the application layer needed to operate. Although, this largely remains true today, as Internet still relies on the same network stack, most of the burdened is carried by the application layer. A variety of custom software stacks on top of the network allow the giants of today's Internet to provide their services. I think the following Figure  by [Geek&Poke](http://geekandpoke.typepad.com/geekandpoke/2012/03/thank-god-not-everything-is-software.html) depicts the resulting reality quiet nicely.
 
 <figure>
 <img src="/images/tgns.jpg" alt="image">
@@ -63,7 +62,7 @@ The concept of an application will turn inside out, exposing the guarded up unti
 How would you implement these type of "apps" on top of such information-centric architecture? This in fact would be relatively straightforward; apps are constructed by issuing queries, which  pull information from multiple information sources into information (graph) container (remember views), which is specific to applications' logic. For example, a social network app (like Facebook) an query for all information published by a group of "Friends". You can of course refine it further (e.g., to specific time range) but more importantly you are not restricted just to your social network. Your query can span across multiple “silos”, such as sensor data, i.e., notify whenever my friend tweets something next to my geo-location. You essentially linked Twitter, Facebook and GPS information into one; what is left is to nicely visualize it. Applications on top of information-centric service abstraction will be built to operate and process information and deliver out comes back to the common space.   Apps interact with other apps and produce results that more apps can use. This can be really powerfull. Think Unix's pipelines.
 
 
-Just as Tim Berners Lee envisioned there will apps (he calls them agents) operating on structured data (objects and relationships), converting it to actionable information (basically something you can engage with). These apps will be able to subscribe (type of query) to parts of the information space.  
+Just as Tim Berners-Lee [envisioned](http://www.cs.umd.edu/~golbeck/LBSC690/SemanticWeb.html) there will apps (he calls them agents) operating on structured data (objects and relationships), converting it to actionable information (basically something you can engage with). These apps will be able to subscribe (type of query) to parts of the information space.  
 
 Joining a service will take on a different meaning. Unlike today, when in most cases you are implicitly forced into using a service, not because it is the best one for you but just because it is most popular. (I like G+ :) When you start looking at it from the information point of view Facebook, Google, LinkedIn, even email will be able to operate over the same pool of information, enhancing each others capabilities.
 

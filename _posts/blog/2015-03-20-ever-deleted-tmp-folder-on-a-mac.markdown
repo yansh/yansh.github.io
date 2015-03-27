@@ -5,6 +5,8 @@ modified:
 categories: blog
 excerpt: "I have, here is how to bring it back!"
 tags: [Tip, Mac]
+share: true
+comments: true
 image:
   feature:
 date: 2015-03-20T11:40:34-04:00

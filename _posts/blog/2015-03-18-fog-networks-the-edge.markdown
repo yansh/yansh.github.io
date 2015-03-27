@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "FOG Networks @ the EDGE - a personal roadmap draft" 
+title: "FOG Networks @ the EDGE " 
 modified:
 categories: blog
-excerpt:
+excerpt: "A personal roadmap draft"
 tags: [FOG, networks, EDGE lab, Princeton]
+share: true
+comments: true
 image:
   feature:
 date: 2015-03-18
+
 ---
 
 I recently joined the [EDGE lab](http://scenic.princeton.edu) at Princeton University to work on the FOG networks. 
