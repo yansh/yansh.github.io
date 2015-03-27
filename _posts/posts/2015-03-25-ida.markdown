@@ -20,14 +20,15 @@ I have been thinking about IDA for some time now. The idea is still very fresh a
 ## Motivation
 
 
-We propose a library package that will help web developers design intent-driven UX. The layout/functionality will adjust itself to the different user intents e.g., browse, buy, learn, view etc, with a nice transition between intents. For me, the idea is inspired by a stage production in Broadway musicals, where a single stage is adopted according to the context of the plot. With IDA business owner will be able to serve content to their customers relevant to their intent, which will lead greater user experience and higher conversion rate for the business. As I explored the net, I discovered that a number of people have thought about a similar proposition.
-
+We propose a library package that will help web developers design intent-driven UX. The layout/functionality will adjust itself to the different user intents e.g., browse, buy, learn, view etc, with a nice transition between intents. For me, the idea is inspired by a stage production in Broadway musicals, where a single stage is adopted according to the context of the plot. For example, with IDA in place, business owner will be able to serve content to their customers relevant to their intent, which will lead greater user experience and higher conversion rate for the business. 
 
 # There is nothing new under the sun...
 
+I discovered that a number of people have thought about a similar proposition.
+
 As more users continue to engage with technology, businesses are pushing software engineers and designers to come up with ways to make UXs smoother and more intuitive as possible.  
 
-The evolution of smart devices has pushed the web design forward towards a responsive design. It is a design approach that is programmed to adjust (respond) to the projected environment. The Web has been really good at adopting the responsive design. Responsive __Web__ design  uses existing CSS techniques to allow content to be *responsive* (and adjust) accordingly to any medium  used to access it, e.g., mobile phone browser, smart-watch, different size tv.
+The evolution of smart devices has pushed the web design forward towards a responsive design where content is programmed to adjust (respond) to the projected environment. The Web has been really good at adopting the responsive design. Responsive __Web__ design  uses existing CSS techniques to allow content to be *responsive* (and adjust) accordingly to any medium  used to access it, e.g., mobile phone browser, smart-watch, different size tv.
 
 The responsive design has allowed for the content to fit the medium. The next step is for it to also blend into the context as well.
 
