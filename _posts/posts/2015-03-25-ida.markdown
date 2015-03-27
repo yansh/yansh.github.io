@@ -55,10 +55,9 @@ Valle Hanssen, seems to agree
 
 Everyone seems to see the benefit of it, however, we are yet to see are implementation of it. Meanwhile, the giants of the Internet are fighting over customers. They sift through personal information in order to get insight into our intents and customise their service accordingly. Despite an incredible progress in Big Data analytics and prediction algorithms, these still remain, to my mind, very crud when it comes translating the insight into an actionable page.
 
-I think the problem  is twofold: firstly, both the designer and the software engineer don't have the tools to translate these "insights" on to the app/web/service itsel.  Secondly, figuring out the insight and reacting to it are independent processes. The insight is retrieved by scientist, applying sophisticated algorithms, while software is written and websites are built by software engineers and designers. It's very static, driven by templates-approach and does not really reflect the spirit of the "response design" framework. I think, a main reason to why responsive design works (largely) is because we provided the designer the tools/frameworks to incorporate inside the product. 
+I think the problem  is twofold: firstly, both the designer and the software engineer don't have the tools to translate these "insights" into "action" in an automatic manner. Think how it's done in the classic responsive design using CSS.  Secondly, figuring out the insight and reacting to it are independent processes. The insight is retrieved by scientist, applying sophisticated algorithms, while software is written and websites are built by software engineers and designers. It's very static, driven by templates-approach and does not really reflect the spirit of the "response design" framework. I think, a main reason to why responsive design (largely) works is because we provided the designer the tools/frameworks to incorporate iy inside their product. 
 
 I think similar frameworks/tools supporting intent-driven design process should appear very soon.
 
 Enter IDA library.
 
-## IDA library
