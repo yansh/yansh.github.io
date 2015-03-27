@@ -12,7 +12,7 @@ share: true
 comments: true
 ---
 
-#IDA: Intent-driven applications. 
+#IDA: Intent-driven applications
 
 I have been thinking about IDA for some time now. The idea is still very fresh and requires some refinement. This is why I think writing about it in a blog might actually bring some clarity for me.
 
@@ -20,18 +20,18 @@ I have been thinking about IDA for some time now. The idea is still very fresh a
 ## Motivation
 
 
-We propose a library package that will help web developers design intent-driven UX. The layout/functionality will adjust itself to the different user intents e.g., browse, buy, learn, view etc, with a nice transition between intents. For me, the idea is inspired by a stage production in Broadway musicals, where a single stage is adopted according to the context of the plot. With IDA business owner will be able to serve content to their customers relevant to their intent, which will lead greater user experience and higher conversion rate for the business. As I explorer the net, I discovered a number of people have thought about a similar proposition.
+We propose a library package that will help web developers design intent-driven UX. The layout/functionality will adjust itself to the different user intents e.g., browse, buy, learn, view etc, with a nice transition between intents. For me, the idea is inspired by a stage production in Broadway musicals, where a single stage is adopted according to the context of the plot. With IDA business owner will be able to serve content to their customers relevant to their intent, which will lead greater user experience and higher conversion rate for the business. As I explored the net, I discovered that a number of people have thought about a similar proposition.
 
 
 # There is nothing new under the sun...
 
 As more users continue to engage with technology, businesses are pushing software engineers and designers to come up with ways to make UXs smoother and more intuitive as possible.  
 
-The evolution of smart devices has pushed the web design forward towards a responsive design. It is a design approach that is programmed to adjust (respond) to its environment. The Web has been really good at adopting the responsive design. Responsive __Web__ design  uses existing CSS techniques to allow content to be *responsive* (and cadjust) accordingly to any medium  used to access it, e.g., mobile phone browser, smart-watch, different size tv.
+The evolution of smart devices has pushed the web design forward towards a responsive design. It is a design approach that is programmed to adjust (respond) to the projected xenvironment. The Web has been really good at adopting the responsive design. Responsive __Web__ design  uses existing CSS techniques to allow content to be *responsive* (and cadjust) accordingly to any medium  used to access it, e.g., mobile phone browser, smart-watch, different size tv.
 
 The responsive design has allowed for the content to fit the medium. The next step is for it to also blend into the context as well.
 
-Few people, are thinking about it as well, [Jeff Fuhriman](http://blogs.adobe.com/digitalmarketing/author/jeff-fuhriman/) from Adobe, [wrote](http://blogs.adobe.com/digitalmarketing/personalization/behavior-driven-design-integrating-user-intent-with-responsive-experiences/) in 2013! "Think Behavior, Not Only Devices"  and calls for Behaviour-driven responsive design.
+A number people, are thinking about it as well, [Jeff Fuhriman](http://blogs.adobe.com/digitalmarketing/author/jeff-fuhriman/) from Adobe, [wrote](http://blogs.adobe.com/digitalmarketing/personalization/behavior-driven-design-integrating-user-intent-with-responsive-experiences/) in 2013! "Think Behavior, Not Only Devices"  and calls for Behaviour-driven responsive design.
 
 > Behavior-driven responsive design seeks to understand the visitor’s needs and intent and to use this information to influence the order and emphasis of content, navigation, and design aesthetic
 
@@ -53,9 +53,9 @@ Valle Hanssen, seems to agree
 
 > Practically speaking, if I go to Gap.com on my desktop, I’m probably browsing for new jeans, and I’m probably buying them too. If I go to Gap.com on my smartphone, I’m likely trying to find the bricks-and-mortar store that’s closest to me, or access my store’s hours. In that case, I don’t want to sift through all of Gap.com’s content to get to the store locator on my smartphone; I want my smartphone to assume the store locator is one of my main goals, and make that a priority over other things like browsing for jeans.
 
-Everyone seems to see the benefit of it, however, we are yet to see are implementation of it. Meanwhile, the giants of the Internet are fighting over customers. They sift through personal information in order to get insight into our intents and customise their service accordingly. Despite an incredible progress in Big Data analytics and prediction algorithms, these still remain, to my mind, very crud methods.
+Everyone seems to see the benefit of it, however, we are yet to see are implementation of it. Meanwhile, the giants of the Internet are fighting over customers. They sift through personal information in order to get insight into our intents and customise their service accordingly. Despite an incredible progress in Big Data analytics and prediction algorithms, these still remain, to my mind, very crud when it comes translating the insight into an actionable page.
 
-I think the problem  is twofold: firstly, both the designer and the software engineer don't have the tools to translate these "insights" on to the app/web/service itself. Secondly, figuring out the insight and reacting to it are independent processes. The insight is retrieved by scientist, applying sophisticated algorithms, while software is written and websites are built by software engineers and designer. It's very static, driven by templates-approach and does not really reflect the spirit of the "response design" framework. I think, a main reason to why responsive design works (largely) is because we provided the designer the tools/frameworks to incorporate inside the product. 
+I think the problem  is twofold: firstly, both the designer and the software engineer don't have the tools to translate these "insights" on to the app/web/service itsel.  Secondly, figuring out the insight and reacting to it are independent processes. The insight is retrieved by scientist, applying sophisticated algorithms, while software is written and websites are built by software engineers and designers. It's very static, driven by templates-approach and does not really reflect the spirit of the "response design" framework. I think, a main reason to why responsive design works (largely) is because we provided the designer the tools/frameworks to incorporate inside the product. 
 
 I think similar frameworks/tools supporting intent-driven design process should appear very soon.
 
