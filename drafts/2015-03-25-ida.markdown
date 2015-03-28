@@ -14,7 +14,7 @@ comments: true
 
 #IDA: Intent-driven applications
 
-I have been thinking about IDA for some time now. The idea is still very fresh and requires some refinement. This is why I think writing about it in a blog might actually bring some clarity for me.
+I have been thinking about IDA for some time now. The idea is still very fresh and requires some refinement. This is why I think writing about it in a blog can help clarity it to myself. You feedback is most welcome. 
 
 
 ## Motivation
