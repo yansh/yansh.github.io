@@ -32,7 +32,7 @@ The evolution of smart devices has pushed the web design forward towards a respo
 
 The responsive design has allowed for the content to fit the medium. The next step is for it to also blend into the context as well.
 
-A number people, are thinking about it as well, [Jeff Fuhriman](http://blogs.adobe.com/digitalmarketing/author/jeff-fuhriman/) from Adobe, [wrote](http://blogs.adobe.com/digitalmarketing/personalization/behavior-driven-design-integrating-user-intent-with-responsive-experiences/) in 2013! "Think Behavior, Not Only Devices"  and calls for Behaviour-driven responsive design.
+A number of people are thinking about it as well, [Jeff Fuhriman](http://blogs.adobe.com/digitalmarketing/author/jeff-fuhriman/) from Adobe, [wrote](http://blogs.adobe.com/digitalmarketing/personalization/behavior-driven-design-integrating-user-intent-with-responsive-experiences/) in 2013! "Think Behavior, Not Only Devices"  and calls for Behaviour-driven responsive design.
 
 > Behavior-driven responsive design seeks to understand the visitor’s needs and intent and to use this information to influence the order and emphasis of content, navigation, and design aesthetic
 
@@ -46,7 +46,7 @@ Although, Doc was discussing the idea in a more broader sense, it still comes do
 
 It's important to incorporate the User into the this loop--either explicitly, by allowing an user to specify his intent, or by figuring his intent from the information he provides. Note, I didn't mention users' actions. These are fairly straightforward. You click on "Buy" or "Browse", I know which page to show you. It's the page before you actually did anything on the website, which is the important one. 
 
-Today websites are full with content. It takes a significant chunk of time for use to navigate through them. Try Amazon. The sheer number of categories and subcategories will drive you nuts. Sometimes, you don't even know what you are looking for, maybe it's a gift? In this case, the website is powerless, beyond having a subsection of generic gifts ideas. 
+Today websites are full with content. It takes a significant chunk of time for use to navigate through them. Try Amazon. The sheer number of categories and subcategories will drive you nuts. Sometimes, you don't even know what you are looking for, maybe it's a gift? In that case, the website is powerless, beyond having a subsection of generic gifts ideas. 
 
 Valle Hanssen, seems to agree
 
@@ -54,7 +54,7 @@ Valle Hanssen, seems to agree
 
 Everyone seems to see the benefit of it, however, we are yet to see are implementation of it. Meanwhile, the giants of the Internet are fighting over customers. They sift through personal information in order to get insights into our intents and customise their service accordingly. Despite an incredible progress in Big Data analytics and prediction algorithms, these still remain, to my mind, very crud when it comes translating the insight into an actionable page.
 
-I think the problem  is twofold: firstly, both the designer and the software engineer don't have the tools to translate these "insights" into "action" in an automatic manner. Think how it's done in the classic responsive design using CSS.  Secondly, figuring out the insight and reacting to it are independent processes. The insight is retrieved by scientist, applying sophisticated algorithms, while software is written and websites are built by software engineers and designers. It's very static, driven by templates and does not really reflect the spirit of the "response design" framework. I think, the main reason to why responsive design (largely) works is because we provided the designer the tools/frameworks to incorporate it inside their product. 
+I think the problem  is twofold: firstly, both the designer and the software engineer don't have the tools to translate these "insights" into "action" in an automatic manner. Think how it's done in the classic responsive design using CSS and other tooling.  Secondly, figuring out the insight and reacting to it are twp independent processes. The insight is retrieved by scientist, applying sophisticated algorithms, while software is written and websites are built by software engineers and designers. It's very static, driven by templates and does not really reflect the spirit of the "response design" framework. I think, the main reason to why responsive design (largely) works is because we provided the designer the tools/frameworks to incorporate it inside their product. 
 
 I think similar frameworks/tools supporting intent-driven design process should appear very soon.
 
