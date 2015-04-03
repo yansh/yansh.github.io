@@ -14,7 +14,7 @@ comments: true
 
 #IDA: Intent-driven applications
 
-I have been thinking about IDA for some time now. The idea is still very fresh and requires some refinement. This is why I think writing about it in a blog can help clarity it to myself. You feedback is most welcome. This post is subject to change :)
+I have been thinking about IDA for some time now. The idea is still very fresh and requires some refinement. This is why I think writing about it in a blog can help clarity it to myself. Your feedback is most welcome. This post is subject to change :)
 
 
 ## Motivation
@@ -28,7 +28,7 @@ I discovered that a number of people have thought about a similar proposition.
 
 As more users continue to engage with technology, businesses are pushing software engineers and designers to come up with ways to make UXs smoother and more intuitive as possible.  
 
-The evolution of smart devices has pushed the web design forward towards a responsive design where content is programmed to adjust (respond) to the projected environment. The Web has been really good at adopting the responsive design. Responsive __Web__ design  uses existing CSS techniques to allow content to be *responsive* (and adjust) accordingly to any medium  used to access it, e.g., mobile phone browser, smart-watch, different size tv.
+The evolution of smart devices has pushed the web design forward towards a responsive design where content is programmed to adjust (respond) to the projected environment. The Web has been really good at adopting the responsive design. Responsive Web design  uses existing CSS techniques to allow content to be *responsive* and adjust accordingly to any medium  used to access it, e.g., mobile phone browser, smart-watch, different size tv.
 
 The responsive design has allowed for the content to fit the medium. The next step is for it to also blend into the context as well.
 
@@ -40,9 +40,9 @@ Jeff also cites Valle Hansen's [post](http://designforuse.net/responsive-design/
 
 Doc Searls, wrote a [book](http://www.amazon.com/The-Intention-Economy-Customers-Charge/dp/1422158527) about the benefits of what he calls "The Intention Economy".
 
-> An economy driven by consumer intent, where vendors must respond to the actual intentions of customers instead of vying for the attention of many. --- [Amazon review](http://www.amazon.com/The-Intention-Economy-Customers-Charge/dp/1422158527)
+> An economy driven by consumer intent, where vendors must respond to the actual intentions of customers instead of vying for the attention of many. 
 
-Although, Doc was discussing the idea in a more broader sense, it still comes down to how we build systems that react to users' intentions.
+Doc presents the idea in a more broader sense, it still comes down to how we build systems that react to users' intentions.
 
 It's important to incorporate the User into the this loop--either explicitly, by allowing an user to specify his intent, or by figuring his intent from the information he provides. Note, I didn't mention users' actions. These are fairly straightforward. You click on "Buy" or "Browse", I know which page to show you. It's the page before you actually did anything on the website, which is the important one. 
 
