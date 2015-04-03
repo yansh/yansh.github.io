@@ -44,7 +44,7 @@ Doc Searls, wrote a [book](http://www.amazon.com/The-Intention-Economy-Customers
 
 Although, Doc was discussing the idea in a more broader sense, it still comes down to how we build systems that react to users' intentions.
 
-It's important to incorporate the User into the this loop--either explicitly, by allowing an user to specify his intent, or by figuring his intent from the information he provides. Note, I didn't mention users' actions. These are fairly straightforward. You click on "Buy" or "Browse", I know which page to show you. It's the page before you actually did anything on the website, which is the important one. 
+It's important to incorporate the User into the this loop--either explicitly, by allowing an user to specify his intent, or by figuring his intent from the information he provides. Note, I didn't mention users' actions. These are fairly straightforward. You click on "Buy" or "Browse", I know which page to show you. It's the page before you actually did anything on the website, which is the important one. I think this ressembles a person who walks into a department store and is looking for a particular aisle. In many cases, I believe, a user knows about his intentions and will be happy (somewhat relieved) if the system will support them, show him the right aisle.
 
 Today websites are full with content. It takes a significant chunk of time for use to navigate through them. Try Amazon. The sheer number of categories and subcategories will drive you nuts. Sometimes, you don't even know what you are looking for, maybe it's a gift? In that case, the website is powerless, beyond having a subsection of generic gifts ideas. 
 
