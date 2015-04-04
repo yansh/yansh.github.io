@@ -42,7 +42,7 @@ Doc Searls wrote a [book](http://www.amazon.com/The-Intention-Economy-Customers-
 
 Doc presents the idea in a more broader sense, it will come down to how we build systems. 
 
-It's important to incorporate the User into the this loop--either explicitly, by allowing an user to specify his intent, or by figuring his intent from the information he provides. Note, I didn't mention users' actions. These are fairly straightforward. You click on "Buy" or "Browse", I know which page to show you. It's the page before you actually did anything on the website, which is the important one. 
+It's important to incorporate *User* into the this loop--either explicitly, by allowing users to specify their  intents, or by figuring their intents from provided information. Note, I didn't mention users' actions. These are fairly straightforward. You click on "Buy" or "Browse", I know which page to show you. It's the page before you actually did anything on the website, which is the important one. 
 
 Today websites are full with content. It takes a significant chunk of time for use to navigate through them. Try Amazon. The sheer number of categories and subcategories will drive you nuts. Sometimes, you don't even know what you are looking for, maybe it's a gift? In that case, the website is powerless, beyond having a subsection of generic gifts ideas or it's back to browsing caterogies. 
 
