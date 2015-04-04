@@ -24,8 +24,6 @@ We propose a library package that will help web developers design intent-driven 
 
 # There is nothing new under the sun...
 
-I discovered that a number of people have thought about a similar proposition.
-
 As more users continue to engage with technology, businesses are pushing software engineers and designers to come up with ways to make UXs smoother and more intuitive as possible.  
 
 The evolution of smart devices has pushed the web design forward towards a responsive design where content is programmed to adjust (respond) to the projected environment. The Web has been really good at adopting the responsive design. Responsive Web design  uses existing CSS techniques to allow content to be *responsive* and adjust accordingly to any medium  used to access it, e.g., mobile phone browser, smart-watch, different size tv.
