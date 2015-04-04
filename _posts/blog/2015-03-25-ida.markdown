@@ -20,7 +20,7 @@ I have been thinking about IDA for some time now. The idea is still very fresh a
 ## Motivation
 
 
-We propose a library package that will help web developers design intent-driven UX. The layout/functionality will adjust itself to the different user intents e.g., browse, buy, learn, view etc, with a nice transition between intents. For me, the idea is inspired by stage productions in Broadway musicals, where a single stage is adopted according to the context of the plot. For example, with IDA in place, business owner will be able to serve content to their customers relevant to their intent, which will lead greater user experience and higher conversion rate for the business. 
+We propose a library package that will help web developers design intent-driven UX. The layout/functionality will adjust itself to the different user intents e.g., browse, buy, learn, view etc, with a nice transition between intents. For me, the idea is inspired by stage productions in Broadway musicals, where a single stage is adopted according to the context of the plot. Similarly, with IDA in place, business owner will be able to serve content to their customers relevant to their intent, which will lead greater user experience and higher conversion rate for the business. 
 
 # There is nothing new under the sun...
 
