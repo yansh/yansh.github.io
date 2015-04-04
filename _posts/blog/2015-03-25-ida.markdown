@@ -2,7 +2,7 @@
 layout: post
 title: "IDA"
 modified:
-categories: posts
+categories: blog
 excerpt: Intent-driven design
 tags: [ida, intent,design]
 image:
