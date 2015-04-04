@@ -14,7 +14,7 @@ comments: true
 
 #IDA: Intent-driven applications
 
-I have been thinking about IDA for some time now. The idea is still very fresh and requires some refinement. This is why I think writing about it in a blog can help clarity it to myself. Your feedback is most welcome. This post is subject to change :)
+I have been thinking about IDA for some time now. The idea is still fresh and requires some refinement. This is why I think writing about it in a blog can help clarity it to myself. Your feedback is most welcome. This post is subject to change :)
 
 
 ## Motivation
@@ -30,7 +30,7 @@ The evolution of smart devices has pushed the web design forward towards a respo
 
 The responsive design has allowed for the content to fit the medium. The next step is for it to also blend into the context as well.
 
-A number of people are thinking about it as well, [Jeff Fuhriman](http://blogs.adobe.com/digitalmarketing/author/jeff-fuhriman/) from Adobe, [wrote](http://blogs.adobe.com/digitalmarketing/personalization/behavior-driven-design-integrating-user-intent-with-responsive-experiences/) in 2013! "Think Behavior, Not Only Devices"  and calls for Behaviour-driven responsive design.
+Some people are thinking about it as well, [Jeff Fuhriman](http://blogs.adobe.com/digitalmarketing/author/jeff-fuhriman/) from Adobe, [wrote](http://blogs.adobe.com/digitalmarketing/personalization/behavior-driven-design-integrating-user-intent-with-responsive-experiences/) in 2013! "Think Behavior, Not Only Devices"  and calls for Behaviour-driven responsive design.
 
 > Behavior-driven responsive design seeks to understand the visitor’s needs and intent and to use this information to influence the order and emphasis of content, navigation, and design aesthetic
 
@@ -54,7 +54,7 @@ Everyone seems to see the benefit of it, however, we are yet to see a real  impl
 
 I think the problem  is twofold: firstly, both designers and software engineers don't have the tools to translate these "insights" into "action" in an automatic manner. Think how it's done in the classic responsive design using CSS and other tooling.  Secondly, figuring out the insight and reacting to it are two independent processes. The insight is retrieved by scientists, applying sophisticated algorithms, while software is written and websites are built by software engineers and designers. It's very static, driven by templates and does not really reflect the spirit of the "response design" framework. I think, the main reason to why responsive design (largely) works is because we provided the designer the tools/frameworks to incorporate it inside their product. 
 
-I think similar frameworks/tools supporting intent-driven design process should appear very soon.
+I think similar frameworks/tools supporting intent-driven design process should appear soon.
 
 Enter IDA library...
 
