@@ -13,6 +13,8 @@ date: 2015-03-10
 ---
 I recently came across an [article](http://blog.intercom.io/the-end-of-apps-as-we-know-them/) by [Paul Adam](https://twitter.com/padday) of Intercom, titled "THE END OF APPS AS WE KNOW THEM”. Paul describes the on going evolution of the app design from "destination" silos on our devices into what is rapidly becoming systems of interconnected components. 
 
+>The idea of having a screen full of icons, representing independent apps, that need to be opened to experience them, is making less and less sense. The idea that these apps sit in the background, pushing content into a central experience, is making more and more sense. That central experience may be something that looks like a notification centre today, or something similar to Google Now, or something entirely new.
+
 In [another](http://blog.intercom.io/design-futures-1-creating-systems-not-products/), more in depth post, Paul writes:
 
 > "Thinking about systems rather than destinations is critical but it is not how most designers think today. Systems comprised individual components that are connected. These connected components have relationships between them; they can change each other. They can be separated and reaggregated in different ways." 
@@ -22,7 +24,6 @@ First, little disclaimer to put this post in a context. [Max Ott](http://www.nic
 In this post, using the context provided by Paul Adams' post, I would like to speculate on how an information-centric  Internet service abstraction can better support current and future trends in application development.
 
 ## Apps as Information  Containers
-
 
 > "The primary design pattern here is cards. Critically it’s not cards as a simple interaction design pattern for an apps content, __but as containers for [information] that can come from any app.__"
 
