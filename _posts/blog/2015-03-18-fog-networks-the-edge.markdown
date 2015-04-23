@@ -39,7 +39,7 @@ The goal is to narrow it down to a concrete and interesting problem which while 
 
 My aim is to leverage some of the existing work carried out in the Edge lab and see how it can be applicable in a Fog-type networking scenario. 
 
-##  "Close proximity, contextual related space"
+##  "Close proximity, contextually related space"
 
 Proposal for a Fog type use-case for a close proximity, decentralized "cloud"-type abstraction for storage, computation and configuration.
 The high level idea is to look at a scenario where socially connected users can leverage storage at each others’ devices to form a close-proximity, contextual type "cloud".
@@ -71,4 +71,4 @@ One of the main arguments for adopting Fog networks is that offloading some of t
 
 ### Distributed (secure) storage 
 
-The Fog network can act as distributed personal storage. The Edge lab developed SYRUS system that uses secret sharing for secure storing of content using 3rd party (public) storage providers. Although, Fog is shifting the paradigm from the cloud closers to the edge, secret sharing techniques can be used to distribute content across the close by devices. This can also serve as a hook for my [previous work on personal information storage at the University of Cambridge](http://yansnotes.blogspot.com/2015/01/work-summary-ocaml-labs.html). More on that soon.
+The Fog network can act as distributed personal storage. The Edge lab developed CYRUS system that uses secret sharing for secure storing of content using 3rd party (public) storage providers. Although, Fog is shifting the paradigm from the cloud closers to the edge, secret sharing techniques can be used to distribute content across the close by devices. This can also serve as a hook for my [previous work on personal information storage at the University of Cambridge](http://yansnotes.blogspot.com/2015/01/work-summary-ocaml-labs.html). More on that soon.
