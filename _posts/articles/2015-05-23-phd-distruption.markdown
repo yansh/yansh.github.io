@@ -2,12 +2,12 @@
 layout: post
 title: "PhD - Philosophy of Disruption "
 modified:
-categorie: posts
+categorie: articles
 excerpt: My thoughts on PhD and innovation labs.
 tags: [PhD, innovation]
 image:
   feature:
-date: 2015-23-15
+date: 2015-05-23
 share: true
 comments: true
 ---
@@ -28,7 +28,7 @@ On paper, it seems, they have all the ingredients to do it: smart, award winning
 
 While we wait, I wonder if we could try a different approach. The way I see it, the whole entrepreneurial (this vastly overhyped word nowadays) process is very random and adhoc. The world is very, very complex thing. I read a few books [^1][^2][^3] on the topic and was left highly affected by the message. Despite all the complexity around us, we hold a simplistic view of it in our heads. We presume and derive patterns from successes of others, but really the causality is rarely there. We simply don’t know the whole story and our brain is wired to believe a linear interoperation of it, e.g., smart guys locked in a basement equals great success! And even if do believe in the idea of randomness, we often act as if we can control it by looking for signals and being superstitious. 
 
-Recently, I was introduced to  Marc Andreessen’s blog archives [^4], where he shares his views and experiences on the entrepreneurial process. There are some nice insights to it and I heartily recommend anyone who is interested in the process to look at it. Having said that, you should we wary of interpolating his thoughts as a solutions or prescription to the innovation problem. I personnally see it as just another piece of a huge puzzle [^6]. In the context of this discussion I would like to point to one specific post, [“Luck and the Entrepreneur, Part 1: The four kinds of luck”](http://pmarchive.com/luck_and_the_entrepreneur.html) which I found particularly interesting. 
+Recently, I was introduced to  Marc Andreessen’s blog archives [^4], where he shares his views and experiences on the entrepreneurial process. There are some nice insights to it and I heartily recommend anyone who is interested in the process to look at it. Having said that, you should we wary of interpolating his thoughts as a solutions or prescription to the innovation problem. I personnally see it as just another piece of a huge puzzle[^5]. In the context of this discussion I would like to point to one specific post, [“Luck and the Entrepreneur, Part 1: The four kinds of luck”](http://pmarchive.com/luck_and_the_entrepreneur.html) which I found particularly interesting. 
 
 In it Marc recommends a number of questions that entrepreneurs should ask. To me these questions express a lot of what I found missing in the current approaches. I think every lab that seeks success or to put it more precisely a chance of a success in promoting and building new solutions (i.e., start-ups, ventures, companies, etc) should constantly ask itself these questions:
 
@@ -49,7 +49,7 @@ My supervisor was always encouraging me to broaden by horizons. You never know w
 
 > How flexible and aggressive are we at synthesizing -- at linking together multiple, disparate, apparently unrelated experiences on the fly?
 
-Borrowing the taxonomy from Gladwell’s book[^5], these people are the connectors. They roam the organization, talk to people and are deeply fascinated by what everyone is doing. They feel pleasure when things connect. In my option, I might be bias on this, this should be highly encouraged, more often than not, in an academic institute, sitting or standing in front of your desk is directly associated with work.  
+Borrowing the taxonomy from Gladwell’s book[^6], these people are the connectors. They roam the organization, talk to people and are deeply fascinated by what everyone is doing. They feel pleasure when things connect. In my option, I might be bias on this, this should be highly encouraged, more often than not, in an academic institute, sitting or standing in front of your desk is directly associated with work.  
 
 >How uniquely are we developing a personal point of view -- a personal approach -- a personal set of "eccentric hobbies, personal lifestyles, and motor behaviors" that will uniquely prepare us to create?
 
@@ -73,7 +73,7 @@ The goal is to give PhD students and opportunity to develop essential research s
 
 #Conclusion 
 
-As I write this, it seems that above is going to be too simplistic, but in practice it's very hard. Simply because most of the time it will be hard to know in advance if it actually works. You will need funding for it and this means the process needs to be evaluated by someone. How can you evaluate it? In my opinion, this is not the right question. PhD is not an exam. It's a journey. Your ultimate goal should be changing the world; the lab is there to assist you with mentorship, advice, connections. This might resemble an incubator for start-ups, with one crucial difference, the main focus is on YOU rather than spinning off companies, which are just by products. A great example of that is Computer lab in Cambridge, UK[^6]. This is one of the most successful labs when it comes to innovation. Ironically, in my brief time in the lab, I didn't see much push to spin out companies and yet as you walk into the build you are faced with a stand full of companies that came out of the lab. The lab just provides people with a great environment to learn and cultivate their talents and skills. It is also a great place to brainstorm ideas. 
+As I write this, it might seems that above is too simplistic and maybe even naive. I do realise that in  practice it's very hard, as with everything it is very complex and many factors are involved. More so, it will be hard to know in advance if it actually works. You need funding for it and this means the process needs to be evaluated by someone. How can you evaluate it? In my opinion, this is not the right question. PhD is not an exam. It's a journey. Your ultimate goal should be changing the world; the lab is there to assist you with mentorship, advice, connections. This might resemble an incubator for start-ups, with one crucial difference, the main focus is on YOU rather than spinning off companies, which are just by products. A great example of that is Computer lab in Cambridge, UK[^8]. This is one of the most successful labs when it comes to innovation. Ironically, in my brief time in the lab, I didn't see much push to spin out companies and yet as you walk into the build you are faced with a stand full of companies that came out of the lab. The lab just provides people with a great environment to learn and cultivate their talents and skills. It is also a great place to brainstorm ideas. 
 
 To sum up, there is no real formula and pretending that the current (academic) approach can be adjusted to fit a new reality doesn't really make sense to me. There are no experts on this — at least in my mind. This is a random and unpredictable process. Ultimately, we might just get lucky a couple of times, so we should at least enjoy the ride. 
 
@@ -84,7 +84,7 @@ To sum up, there is no real formula and pretending that the current (academic) a
 [^2]: Taleb, Nassim Nicholas. The black swan: The impact of the highly improbable fragility. Random House, 2010.
 [^3]: Taleb, Nassim. Fooled by randomness: The hidden role of chance in life and in the markets. Random House Incorporated, 2004.
 [^4]: http://pmarchive.com/
-[^5]: Gladwell, Malcolm. Outliers: The story of success. Hachette UK, 2008.
-[^6]: We might never see the whole picture but it’s nice when pieces connect. Continuing this analogy, sometimes  even if the pieces connect they are not meant to be together in the context of the bigger picture. This is sometimes harder to admit.
-[^7]:  Ironically, this type of "lab" might produce better academics.
-
+[^5]: We might never see the whole picture but it’s nice when pieces connect. Continuing this analogy, sometimes  even if the pieces connect they are not meant to be together in the context of the bigger picture. This is sometimes harder to admit.
+[^6]: Gladwell, Malcolm. Outliers: The story of success. Hachette UK, 2008.
+[^7]: Ironically, this type of "lab" might produce better academics.
+[^8]: http://www.cl.cam.ac.uk
