@@ -12,10 +12,6 @@ share: true
 comments: true
 ---
 
-*__Disclaimer:__  These are my personal views. I am by no means an expert or am considering myself as one. I haven’t built a multimillion dollar company nor I successfully founded a lab that had a huge success in commercialization. I presume a lot of the following thoughts are based on my personal experiences as a PhD/Postdoc in academia and as a graduate student in a research lab with focus on commercialization. You don’t need to agree with me and you might be right to do so. The point of this write-up is to summarize some of the thoughts I had in my own head and promote discussion on the topic. This topic fascinates me and I am learning new things everyday.*
-
----
-
 The journey to obtaining a PhD degree is different for everyone. Nevertheless, to me these journeys share the same stem: You read related works in your field, find a problem and work hard to propose a meaningful contribution to the field by coming up with a solution or substrate to reaching one eventually. Your work is assessed by your peers when you publish and ultimately by selective examiners when you graduate.
 
 Some PhD dissertations were able to create new or fundamentally change the field. However, most PhDs go unnoticed. Some of them are "blue sky", purely theoretical work that haven’t  (yet) found any practical application, others are applications that don’t solve real problems.
@@ -77,6 +73,9 @@ As I write this, it might seems that above is too simplistic and maybe even naiv
 
 To sum up, there is no real formula and pretending that the current (academic) approach can be adjusted to fit a new reality doesn't really make sense to me. There are no experts on this — at least in my mind. This is a random and unpredictable process. Ultimately, we might just get lucky a couple of times, so we should at least enjoy the ride. 
 
+----
+
+*__Disclaimer:__  These are my personal views. I am by no means an expert or am considering myself as one. I haven’t built a multimillion dollar company nor I successfully founded a lab that had a huge success in commercialization. I presume a lot of the following thoughts are based on my personal experiences as a PhD/Postdoc in academia and as a graduate student in a research lab with focus on commercialization. You don’t need to agree with me and you might be right to do so. The point of this write-up is to summarize some of the thoughts I had in my own head and promote discussion on the topic. This topic fascinates me and I am learning new things everyday.*
 
 ----
 
