@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Rhythm"
+modified:
+categories: posts
+excerpt: A story of a soviet start-up
+tags: [start-ups, USSR]
+image:
+  feature:
+date: 2015-03-25T10:03:05-04:00
+share: true
+comments: true
+---
+
+
+In his book "Outlier the story of success" Malcolm Gladwell explore the stories behind successful and so fortunate people.  
+
+> “Superstar lawyers and math whizzes and software entrepreneurs appear at first blush to lie outside ordinary experience. But they don't. They are products of history and community, of opportunity and legacy. Their success is not exceptional or mysterious. It is grounded in a web of advantages and inheritances, some deserved, some not, some earned, some just plain lucky - but all critical to making them who they are. The outlier, in the end, is not an outlier at all.”
+
+When I read the book, it sounded as a very compelling argument, maybe too compelling. Overall, I agree with it, seemly as many other people, which explains its best seller status. For me, the wording "right time", "right place" carry a much more profound and philosophical meaning. When is it the right time and how we know we are in the right place? A simple answer, in my personal opinion, we don't.
+
+Shortly after reading the book, I had a conversation with my dad and it turns out, he had quiet a story to tell me. This is a story about him starting a company in Soviet Union, in 1986! Speaking of the wrong time and the wrong place! But, staying true to my message, I don't believe it's that black & white. The venture was incredible successful, with real client and revenue. It didn't make us rich, but I am still very proud of him for pursuing it.  So I decided to explore the topic a bit deeper, starting with this post. As he was telling me about the venture, I started to see a lot of symmetry in how he approached it then to what is preached by the start-up community gurus today. What is interesting my dad never read those books, first many of them didn't exist back in his days, he didn't follow a particular script and yet I still can see a pattern in his actions. This fascinates me.
+
+In this post I would like to point out some of these point and hope to dive deep into the story in the subsequent posts.
+
+
+#Rhythm
+
+
+> Keep your eyes open. 
+
+My dad educated as an economist in chemistery production (rough translation). Long story short (actually it's a great story, but for another post), he ended up as a vice-director of a factory that processed fruits into juices, cans and etc.  As young director, my dad was shocked with some of the inefficiency in the overall operations. In particular, he was frustrated with the accounting department. They were using counting frames and paper for their calculations. Yes, counting frames!  
+
+> Validate your ideas and hypothesis 
+
+After being exposed to the problems. My dad thought, well he was really convinced that there is a better way of doing things. In hiensight this might seem obvious, especially today but back then replacing a human with a computer was almost inconvieable. Many apposed the idea. Dad tells me he needed to visit countless factories, attend conferences to see if it makes sense. He bacame in away obsessed with the idea that a computer can do that job more efficiently and he validated those assumption.
+
+
+> Nobody will help you and probably thinks you're crazy
+
+As I mentioned, a lot have appossed the idea. Some due to the ignorance, some due politics (you don't want to be blame for something in sovient times :) My dad was head of production, so he had some leverage, mainly people didn't tell he is crazy to his face but the way he tells, they were counting on it to fail. 
+
+> Low on resources? get creative!
+
+> Assemble team
+
+> 
+

@@ -12,6 +12,8 @@ url: http://yansh.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
+redcarpet:
+    extensions: [footnotes]
 highlighter: pygments
 sass:
   sass_dir: _sass
