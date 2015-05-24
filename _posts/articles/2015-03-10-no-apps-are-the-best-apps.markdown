@@ -13,6 +13,8 @@ date: 2015-03-10
 ---
 I recently came across an [article](http://blog.intercom.io/the-end-of-apps-as-we-know-them/) by [Paul Adam](https://twitter.com/padday) of Intercom, titled "THE END OF APPS AS WE KNOW THEM”. Paul describes the on going evolution of the app design from "destination" silos on our devices into what is rapidly becoming systems of interconnected components. 
 
+>The idea of having a screen full of icons, representing independent apps, that need to be opened to experience them, is making less and less sense. The idea that these apps sit in the background, pushing content into a central experience, is making more and more sense. That central experience may be something that looks like a notification centre today, or something similar to Google Now, or something entirely new.
+
 In [another](http://blog.intercom.io/design-futures-1-creating-systems-not-products/), more in depth post, Paul writes:
 
 > "Thinking about systems rather than destinations is critical but it is not how most designers think today. Systems comprised individual components that are connected. These connected components have relationships between them; they can change each other. They can be separated and reaggregated in different ways." 
@@ -22,7 +24,6 @@ First, little disclaimer to put this post in a context. [Max Ott](http://www.nic
 In this post, using the context provided by Paul Adams' post, I would like to speculate on how an information-centric  Internet service abstraction can better support current and future trends in application development.
 
 ## Apps as Information  Containers
-
 
 > "The primary design pattern here is cards. Critically it’s not cards as a simple interaction design pattern for an apps content, __but as containers for [information] that can come from any app.__"
 
@@ -59,7 +60,7 @@ The concept of an application will turn inside out, exposing the guarded up unti
 
 ### Building future "Apps"
 
-How would you implement these type of "apps" on top of such information-centric architecture? This in fact would be relatively straightforward; apps are constructed by issuing queries, which  pull information from multiple information sources into information (graph) container (remember views), which is specific to applications' logic. For example, a social network app (like Facebook) an query for all information published by a group of "Friends". You can of course refine it further (e.g., to specific time range) but more importantly you are not restricted just to your social network. Your query can span across multiple “silos”, such as sensor data, i.e., notify whenever my friend tweets something next to my geo-location. You essentially linked Twitter, Facebook and GPS information into one; what is left is to nicely visualize it. Applications on top of information-centric service abstraction will be built to operate and process information and deliver out comes back to the common space.   Apps interact with other apps and produce results that more apps can use. This can be really powerfull. Think Unix's pipelines.
+How would you implement these type of "apps" on top of such information-centric architecture? This in fact would be relatively straightforward; apps are constructed by issuing queries, which  pull information from multiple information sources into information (graph) container (remember views), which is specific to applications' logic. For example, a social network app (like Facebook) can issue a query for all information published by a group of "Friends". You can of course refine it further (e.g., to specific time range) but more importantly you are not restricted just to your social network. Your query can span across multiple “silos”, such as sensor data, i.e., notify whenever my friend tweets something next to my geo-location. You essentially linked Twitter, Facebook and GPS information into one; what is left is to nicely visualize it. Applications on top of information-centric service abstraction will be built to operate and process information and deliver out comes back to the common space.   Apps interact with other apps and produce results that more apps can use. This can be really powerfull. Think Unix's pipelines.
 
 
 Just as Tim Berners-Lee [envisioned](http://www.cs.umd.edu/~golbeck/LBSC690/SemanticWeb.html) there will apps (he calls them agents) operating on structured data (objects and relationships), converting it to actionable information (basically something you can engage with). These apps will be able to subscribe (type of query) to parts of the information space.  
