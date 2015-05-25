@@ -22,7 +22,7 @@ On paper, it seems, they have all the ingredients to do it: smart, award winning
 
 #Questions 
 
-While we wait, I wonder if we could try a different approach. The way I see it, the whole entrepreneurial (this is  vastly overhyped word nowadays) process is very random and adhoc. The world is very, very complex thing. I read a few books [^1][^2][^3] on the topic and was left highly affected by the message. Despite all the complexity around us, we hold a simplistic view of it in our heads. We presume and derive patterns from successes of others, but really the causality is rarely there. We simply don’t know the whole story and our brain is wired to believe a linear interoperation of it, e.g., smart guys locked in a basement equals great success! And even if do believe in the idea of randomness, we often act as if we can control it by looking for signals and being superstitious. 
+While we wait, I wonder if we could try a different approach. The way I see it, the whole entrepreneurial (this is  vastly overhyped word nowadays) process is very random and adhoc. The world is very, very complex thing. I read a few books [^1][^2][^3][^6] on the topic and was left highly affected by the message. Despite all the complexity around us, we hold a simplistic view of it in our heads. We presume and derive patterns from successes of others, but really the causality is rarely there. We simply don’t know the whole story and our brain is wired to believe a linear interoperation of it, e.g., smart guys locked in a basement equals great success! And even if do believe in the idea of randomness, we often act as if we can control it by looking for signals and being superstitious. 
 
 Recently, I was introduced to  Marc Andreessen’s blog archives [^4], where he shares his views and experiences on the entrepreneurial process. There are some nice insights to it and I heartily recommend anyone who is interested in the process to look at it. Having said that, you should we wary of interpolating his thoughts as a solutions or prescription to the innovation problem. I personnally see it as just another piece of a huge puzzle[^5]. In the context of this discussion I would like to point to one specific post, [“Luck and the Entrepreneur, Part 1: The four kinds of luck”](http://pmarchive.com/luck_and_the_entrepreneur.html) which I found particularly interesting. 
 
@@ -45,7 +45,7 @@ My supervisor was always encouraging me to broaden by horizons. You never know w
 
 > How flexible and aggressive are we at synthesizing -- at linking together multiple, disparate, apparently unrelated experiences on the fly?
 
-Borrowing the taxonomy from Gladwell’s book[^6], these people are the connectors. They roam the organization, talk to people and are deeply fascinated by what everyone is doing. They feel pleasure when things connect. In my option, I might be bias on this, this should be highly encouraged, more often than not, in an academic institute, sitting or standing in front of your desk is directly associated with work.  
+Borrowing the taxonomy from Gladwell’s book[^9], these people are the connectors. They roam the organization, talk to people and are deeply fascinated by what everyone is doing. They feel pleasure when things connect. In my option, I might be bias on this, this should be highly encouraged, more often than not, in an academic institute, sitting or standing in front of your desk is directly associated with work.  
 
 >How uniquely are we developing a personal point of view -- a personal approach -- a personal set of "eccentric hobbies, personal lifestyles, and motor behaviors" that will uniquely prepare us to create?
 
@@ -87,3 +87,4 @@ To sum up, there is no real formula and pretending that the current (academic) a
 [^6]: Gladwell, Malcolm. Outliers: The story of success. Hachette UK, 2008.
 [^7]: Ironically, this type of "lab" might produce better academics.
 [^8]: http://www.cl.cam.ac.uk
+[^9]: Gladwell, Malcolm. The tipping point: How little things can make a big difference. Little, Brown, 2006.
