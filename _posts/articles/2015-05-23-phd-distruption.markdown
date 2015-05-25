@@ -65,7 +65,7 @@ I think at this point, I should stress that I am not against the traditional aca
 
 So let's get more specific: 
 
-The goal is to give PhD students and opportunity to develop essential research skills, while getting substantial industry experience and finding a way to disrupt it. This means much more industry internships, the more the better. Supervisor should focus on teaching candidates essential skills and forget about the academia metrics. Students will still need to defend their dissertation. They will need to find problems to solve. They can solve an existing problem or they can try to disrupt an industry or create a new one. Number of publication shouldn't mean much. Open source contributions, established collaboration and real impact in terms of users, venture backing etc should be given more weight. 
+The goal is to give PhD students an opportunity to develop essential research skills, while getting substantial industry experience and finding a way to disrupt it. This means much more industry internships, the more the better. Supervisor should focus on teaching candidates essential skills and forget about the academia metrics. Students will still need to defend their dissertation. They will need to find problems to solve. They can solve an existing problem or they can try to disrupt an industry or create a new one. Number of publication shouldn't mean much. Open source contributions, established collaboration and real impact in terms of users, venture backing etc should be given more weight. 
 
 #Conclusion 
 
