@@ -50,9 +50,9 @@ From an implementation point of view, the graph is serialised into a set of n-tu
 ## How will end users interact with it, and how will they benefit?
 
 The end-user would not directly interact with Moana but will greatly benefit as applications layered on top can then be viewed as different windows into the SAME information space. Different aspects of a user’s information space will no longer be locked up in various applications, but instead applications will provide users the ability to interact with all their accessible information in different ways. By removing the need for syncing of data between applications and devices, as well as mapping data from various formats and sources into the applications internal information model, applications can innovate on how the enable a user to interact with various kinds of information. 
-" applications which will work behind the scene and on behalf of a user to enrich the user’s information space. Developers with new ideas on how to find relevant information for a user or which can discover new links between existing nuggets, now no longer need to worry about also creating a ‘nice, compelling GUI’. 
+Applications will work behind the scene and on behalf of a user to enrich the user’s information space. Developers with new ideas on how to find relevant information for a user or which can discover new links between existing nuggets, now no longer need to worry about also creating a ‘nice, compelling GUI’. 
 
-However, we do plan to develop (or adopt existing) applications to demonstrate Moana’s potential. The following presents some applications for which we already have developed early prototypes:
+However, we do plan to develop (or adopt existing) applications to demonstrate Moana’s potential. 
 
 ## Room DJ:
 
