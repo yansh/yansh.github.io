@@ -17,32 +17,52 @@ In his book "Outlier the story of success" Malcolm Gladwell explore the stories 
 
 > “Superstar lawyers and math whizzes and software entrepreneurs appear at first blush to lie outside ordinary experience. But they don't. They are products of history and community, of opportunity and legacy. Their success is not exceptional or mysterious. It is grounded in a web of advantages and inheritances, some deserved, some not, some earned, some just plain lucky - but all critical to making them who they are. The outlier, in the end, is not an outlier at all.”
 
-When I read the book, it sounded as a very compelling argument, maybe too compelling. Overall, I agree with it, seemly as many other people, which explains its best seller status. For me, the wording "right time", "right place" carry a much more profound and philosophical meaning. When is it the right time and how we know we are in the right place? A simple answer, in my personal opinion, we don't.
+When I read the book, it sounded as a very compelling argument, maybe too compelling. Overall, I agree with it, seemly as many other people, which explains its best seller status. 
 
-Shortly after reading the book, I had a conversation with my dad and it turns out, he had quiet a story to tell me. This is a story about him starting a company in Soviet Union, in 1986! Speaking of the wrong time and the wrong place! But, staying true to my message, I don't believe it's that black & white. The venture was incredible successful, with real client and revenue. It didn't make us rich, but I am still very proud of him for pursuing it.  So I decided to explore the topic a bit deeper, starting with this post. As he was telling me about the venture, I started to see a lot of symmetry in how he approached it then to what is preached by the start-up community gurus today. What is interesting my dad never read those books, first many of them didn't exist back in his days, he didn't follow a particular script and yet I still can see a pattern in his actions. This fascinates me.
+Shortly after reading the book, I had a conversation with my dad and it turns out, he had quiet a story to tell me. This is a story about him starting a company in Soviet Union, in 1986! Speaking of the wrong time and the wrong place! But, staying true to my message, I don't believe it's that black & white. The venture was incredible successful, with real client and revenue. It didn't make us rich, but I am still very proud of him for pursuing it.  So I decided to explore the topic a bit deeper, starting with this post. As he was telling me about the venture, I started to see a lot of symmetry in how he approached it then to what is preached by the start-up community gurus today. What is interesting my dad never read those books, first many of them didn't exist back in his days, he didn't follow a particular script and yet I still can see a pattern in his actions. This fascinates me because in all honesty I don't believe there is any pattern, it's just my find finds these similarities.
 
 In this post I would like to point out some of these point and hope to dive deep into the story in the subsequent posts.
 
 
 #Rhythm
 
+> Watch your souroundings
 
-> Keep your eyes open. 
+My dad educated as an economist in chemistery production (rough translation). Long story short (actually it's a great story, but for another post), he ended up as a vice-director of a factory that processed fruits into juices, cans and etc within the region. Short time after, my dad noticed a room where they had an old computer. It wasn't used, because nobody knew how to use it but more importantly everyone thought there was no real need to use it. It turned out the machine was part of a so called measuremens control unit (KIP in Russian). The abscurity of the name translated into its ativity. Although, number of people where assigned to it, nobofy really knew what was the its primary purpose and subsequemtly their roles. As young director, my dad was shocked with some of the inefficiency in the overall operations. In particular, he was frustrated with the accounting department. They were using counting frames and paper for their calculations. Yes, counting frames!  
 
-My dad educated as an economist in chemistery production (rough translation). Long story short (actually it's a great story, but for another post), he ended up as a vice-director of a factory that processed fruits into juices, cans and etc.  As young director, my dad was shocked with some of the inefficiency in the overall operations. In particular, he was frustrated with the accounting department. They were using counting frames and paper for their calculations. Yes, counting frames!  
+After being exposed to the problems. My dad thought, well he was really convinced that there is a better way of doing things. In hiensight this might seem obvious, especially today but back then replacing a human with a computer was almost inconvieable. Many apposed the idea. Dad tells me he needed to visit countless factories, attend conferences to see if it makes sense. He bacame in away obsessed with the idea that a computer can do that job more efficiently and he validated those assumption. 
 
-> Validate your ideas and hypothesis 
 
-After being exposed to the problems. My dad thought, well he was really convinced that there is a better way of doing things. In hiensight this might seem obvious, especially today but back then replacing a human with a computer was almost inconvieable. Many apposed the idea. Dad tells me he needed to visit countless factories, attend conferences to see if it makes sense. He bacame in away obsessed with the idea that a computer can do that job more efficiently and he validated those assumption.
+This is not the first time my dad was exposed to computers. The uni he attended used computers for some tasks. My dad didn't really know the nuts and bolts but they have left a profound impression on him that computers can do some tasks much better than humans, counting is one of them. He asked the head of the facotry to transfer him to be incharge of KIP as soon as possible. In elaborate pitch, he promised him great things. He know admits he didn't know would they be but he was became obsessed with the idea of utilising this machine. Ultimently, after some negotions he was transfered as he head of KIP. This is when he says the fun begun!
 
+As soon as he was trasnfered, my dad wanted to learn the capabilities behind the machine, so he travelled to Ukraine were it was manufactured. This was a lab in the Ukrainian university, were a bunch of researchers were working on the next model. 
+
+The machine was a veriation of a mainframe. It required terminals - robotorons.
+
+// Add more info on Sovient computers
+These were manifactured elsewhere in Ukraine, city of Vinitza. He arranged a number of terminals for his unit back in the factory.
+
+Vinitza chasti i terminali for it.
+
+So once he managed to arrange the terminals and spare parts for his computer. He actually convince the folks in Ukraine, Kiev to borrow their latest computer. This was unheard of -- a small regiion in Moldova was now in the bleeding edge of computer revolution. That would even make the Moscow guys gelioucs, joked my dad. People talk about today about shortage of software engineers, but reality my dad found hiself. Not only there were no real software developers, the concpet was so foreign More so, he also convince a few of the researchers and developers to come back with him to Moldova to help him set up the system and help boot strap it. This is where the real brainstorminh begun. They all knew that they have something powerful so they started to think how the computer can be used. This brought them back to how to what computer did best -- count! It became clear that they can make accounting so much more efficient by replacing the manual labour.
+
+It seems so obvious to me when he tells me the story but back then it was inconsible. My dad was a visionary of his time and had to convinvce the region party members and his supiriours that this is something worth purscuing. It wasn't easy.
+
+
+Felix...
+
+PItch, we will take the whole region
+
+It was incredible for worker to get a printout of what his is paid and owns. 
 
 > Nobody will help you and probably thinks you're crazy
 
 As I mentioned, a lot have appossed the idea. Some due to the ignorance, some due politics (you don't want to be blame for something in sovient times :) My dad was head of production, so he had some leverage, mainly people didn't tell he is crazy to his face but the way he tells, they were counting on it to fail. 
 
-> Low on resources? get creative!
+> Low on resources? get creative! Assetitives and convincing.
 
 > Assemble team
 
-> 
 
+
+> Grant from the regional funds. Ivanom Karl Karlovich, genral dirktor.
