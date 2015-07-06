@@ -39,7 +39,7 @@ For me, the wording "right time", "right place" carry a much more profound and p
 
 On close examination "being right" can actually get us into doing the wrong things. We lose the sense of exploration, our pride and confidence “blinds” us to what lies ahead. If we have strong feeling of being right about something, there is no need to explore the alternative (we are right after all). This combined with biases such as availability (what you saw or read on the news), confirmation (selectively hear what you believe is right) and narrative (story that someone told you and make sense to you), we become completely absorbed within our own world, selective picking the events around us to justify its existence.
 
-Often, at least for me, what seems right at the time, turns out to be wrong, which in turn can become right again as the time passed, and repeat. It seems the notion of right and wrong are in constant isolation. I am even starting to think they are (often) the same thing. These binary labels seems to me as yet another simplification that we need to make sense (illusion) of the environment around us.
+Often, at least for me, what seems right at the time, turns out to be wrong, and as the time passes, it can become right again, and repeat. It seems the notion of right and wrong are in constant isolation. I am even starting to think they are (often) the same thing. These binary labels seems to me as yet another simplification that we need to make sense (illusion) of the environment around us.
 
 #The Unknown
 
@@ -58,9 +58,10 @@ We never see the whole picture, our world perception is very subjective and ofte
 The thought that stuck with me was: *Nobody really knows anything for sure or even close to that.*
 
 I recently met a friend over coffee in Palo Alto over, he described his entrepreneurial journey as a collection of steps where he and his team got it "wrong". I am paraphrasing here: "when we started our start-up, we thought we know how things are, but then we moved into an accelerator, and we learnt quickly that we were wrong, same thing happened when we moved to US, we learnt that what we thought was the right thing to do, was actually wrong, etc.."
-So his journey by many can be categories as constantly being wrong, but he didn't sound as someone you has failed. This is because I think the start-up community realized the potential of *being wrong*. In many ways it advocates for being "wrong" and often as possible. You learn a lot from failing, probably much more from (immediate) success. I like how Taleb puts it:
+So his journey can be categorised by many  as constantly being wrong, but he didn't sound like someone you has failed -- quite the opposite. This is because, I think, the start-up community realized the potential of *being wrong*. In many ways it advocates for being "wrong" and often as possible. You learn a lot from failing, probably much more from (immediate) success. 
 
->“Let us say that, in general, failure (and disconfirmation) are more informative than success and confirmation, which is why I claim that negative knowledge is just “more robust.”
+
+>“ [In] general, failure (and disconfirmation) are more informative than success and confirmation, which is why I claim that negative knowledge is just “more robust.”
 
 *― Nassim Nicholas Taleb, Antifragile: Things That Gain From Disorder*
 
@@ -76,8 +77,7 @@ Kahneman describes the notion of two mental systems that co-operate in our consc
 
 We (i.e, our System  1) put binary tags on something that is very much "analog" with noise and imperfections. In order to challenge these tags, System 2 needs to be frequently evoked, which demands mental energy, concentration and some practice.
 
-So this led me to a mental exercise. Rather trying to be always right, imagine that every single thought, reflection that you make is neither right nor wrong - i.e., mentally assuming we are (always) wrong.
-This is harder to do than it reads. Saying "I am wrong" to yourself is very demoralizing it is much easier to fool yourself into being right (i.e., everyone and everything else around is wrong). So I suggest not calling it "wrong”, after all, this is again just a label, another template. How about just saying "I don’t know" or perhaps, just as Taleb refers to it in his books, *incerto* which in Italian means *uncertain, unsure*. I like it. It kind of tricks your mind into thinking "I am not wrong, I am just not sure if I am right :)"
+So this led me to a mental exercise. Rather trying to be always right, imagine that every single thought, reflection that you make is (possibly) wrong. This is harder to do than it reads. Saying "I am wrong" to yourself is very demoralizing it is much easier to fool yourself into being right (i.e., everyone and everything else around is wrong). So I suggest not calling it "wrong”, after all, this is again just a label, another template. How about just saying "I don’t know" or perhaps, just as Taleb refers to it in his books, *incerto* which in Italian means *uncertain, unsure*. I like it. It kind of tricks your mind into thinking "I am not wrong, I am just not sure if I am right :)"
 
 Staying away from being right and being uncertain has upsides to it as well. You get a double if not triple dose of that "good feeling" I described earlier, when things to fall your way and less (or none) of the disappointment when things don't. We all felt it, when we believed something was wrong and it turned out to be right.
 
