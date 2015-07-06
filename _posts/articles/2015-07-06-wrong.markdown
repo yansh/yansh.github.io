@@ -12,7 +12,7 @@ share: true
 comments: true
 ---
 
-The notion of “being wrong” got a bad name to itself. While ”being right” is important  (and considered to be a good thing) for us,  "being wrong" is something we are afraid of and tend to get rid of by trying very hard to be (always) right.
+The notion of “being wrong” got a bad name to itself. While ”being right” is important  (and considered to be a good thing) for us,  "being wrong" is something we are afraid of, hide and tend to get rid of by trying very hard to be (always) right.
 
 It seems we are wired for it. The sense of satisfaction that one gets when he/she is right, is hard to explain or express in word. We've all felt it, and it felt good! We are addicted to being right. It makes us happy, even if sometimes we don't admit to it.
 
@@ -28,7 +28,7 @@ As humans, we need to have a sense of progress because without it we feel lost. 
 
 *Being right* is certainly appealing as it can be a source of great motivation and confidence in one's ability to perform. In modern society we are preached to do everything we can to be (always) *right*: read books (about others peoples mistakes), learn from our mistakes (things you did wrong) and trust our instincts (i.e., luck) to make the (right)  decision at the (right) time. It seems, for us to be right, a lot of people (including ourselves) have to be openly and frequently wrong.
 
-Nevertheless, we attribute success to the notion of "right", e.g., you have to be in the right place and the right time, say the right things for the right things to happen in the right way. In majority of the time, people who are considered to be often right are treated differently. They are admired and their opinion tend to carry more weight than others. As a result they start to believe and act as if they know something others don’t — attributing them  "being right” to experience, intuition and intelligence, rather as some suggest being plain lucky.
+Nevertheless, we attribute success to the notion of "right", e.g., you have to be in the right place and the right time, say the right things for the right things to happen in the right way. In majority of the time, people who are considered to be often right are treated differently. They are admired and their opinion tend to carry more weight than others. As a result they start to believe and act as if they know something others don’t — attributing "being right” to experience, intuition and intelligence, rather as some suggest being plain lucky.
 
 This is how Malcolm Gladwell puts in his book[^2]:
 
