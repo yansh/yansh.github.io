@@ -7,7 +7,7 @@ excerpt: "A story of two labels"
 tags: [Philosophy, labels]
 image:
   feature:
-date: 2015-07-2T10:03:05-04:00
+date: 2015-07-6T10:03:05-04:00
 share: true
 comments: true
 ---
