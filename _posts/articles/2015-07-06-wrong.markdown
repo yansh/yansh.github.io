@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Right to be Wrong"
+title: "Right to Be Wrong"
 modified:
 categories: posts
 excerpt: "A story of two labels"
