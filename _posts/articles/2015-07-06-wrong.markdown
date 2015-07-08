@@ -12,6 +12,8 @@ share: true
 comments: true
 ---
 
+[#Why do we always want to be right?](https://www.quora.com/Why-do-we-always-want-to-be-right)
+
 The notion of “being wrong” got a bad name to itself. While ”being right” is important (and considered to be a good thing) for us, “being wrong” is something we tend to hide and get rid of by trying very hard to be (always) right.
 
 It seems we are wired for it. It is hard to explain or express in words, the kind of satisfaction that one gets when he or she is right. We’ve all felt it, and it felt good! We are addicted to being right. It makes us happy, even if sometimes we don’t admit to it.
