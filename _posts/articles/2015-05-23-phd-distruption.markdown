@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "PhD - Philosophy of Disruption "
-modified:
 categories: articles
 excerpt: My thoughts on PhD and innovation labs.
 tags: [PhD, innovation]
