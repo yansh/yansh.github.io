@@ -105,8 +105,10 @@ Training yourself to operate in the *unknown*, gives you more time to figure out
 
 [^5]: Gladwell, Malcolm  Blink: The Power of Thinking Without Thinking
 
-[^6]: Taleb, Nassim Nicholas. The black swan: The impact of the highly improbable fragility. Random House, 2010.
+[^6]: Taleb, Nassim Nicholas. The black swan: The impact of the highly improbable fragility. Random House, 2010
+
 [^7]: Taleb, Nassim. Fooled by randomness: The hidden role of chance in life and in the markets. Random House Incorporated, 2004.
+
 [^8]: Taleb, Nassim. Antifragile: Things That Gain From Disorder
 
 [^9]: Kahneman, Daniel. Thinking, fast and slow. Macmillan, 2011.
