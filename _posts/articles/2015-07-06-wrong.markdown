@@ -2,7 +2,7 @@
 layout: post
 title: "Right to Be Wrong"
 modified:
-categories: posts
+categories:  articles 
 excerpt: "A story of two labels"
 tags: [Philosophy, labels]
 image:
