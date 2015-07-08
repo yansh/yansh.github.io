@@ -70,7 +70,7 @@ So his journey can be categorised by many  as constantly being wrong, but he did
 
 We are programmed to have mental templates (labels) in our head and it seems anything that doesn't fall directly into them is "wrong". It takes significant mental effort to operate without any templates, they make our life significantly easier, but I cannot help the feeling that it also a gross simplification of the real thing.
 
-Kahneman describes the notion of two mental systems that cooperate in our consciousness [^8]:
+Kahneman describes the notion of two mental systems that cooperate in our consciousness [^9]:
 
 > ”System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control.
 
