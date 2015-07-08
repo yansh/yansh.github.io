@@ -12,7 +12,7 @@ share: true
 comments: true
 ---
 
-#Why do we always want to be right?[^1]
+*Why do we always want to be right?*[^1]
 
 The notion of “being wrong” got a bad name to itself. While ”being right” is important (and considered to be a good thing) for us, “being wrong” is something we tend to hide and get rid of by trying very hard to be (always) right.
 
