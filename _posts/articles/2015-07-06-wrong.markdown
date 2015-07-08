@@ -25,7 +25,7 @@ In this post I speculate based on my personal experiences and wonder whether the
 
 **Spoiler.**  *If you're looking for answers you probably won't find them here.*
 
-The world is very complex. This makes it hard to navigate for us: what direction to go? Where to turn?1 As humans, we need to have a sense of progress because without we feel lost. It seems being right acts an internal driver, often an excuse, to keep going. We need this simplification because otherwise we feel that we are not progressing.
+The world is very complex. This makes it hard to navigate for us: what direction to go? Where to turn? [^2] As humans, we need to have a sense of progress because without we feel lost. It seems being right acts an internal driver, often an excuse, to keep going. We need this simplification because otherwise we feel that we are not progressing.
 
 *Being right* is certainly appealing as it can be a source of great motivation and confidence in one's ability to perform. In modern society we are preached to do everything we can to be (always) *right*: read books (about others peoples' mistakes), learn from our mistakes (things you did wrong) and trust our instincts (i.e., luck) to make the (right)  decision at the (right) time. It seems, for us to be right, a lot of people (including ourselves) have to be openly and frequently wrong.
 
@@ -98,7 +98,9 @@ Training yourself to operate in the *unknown*, gives you more time to figure out
 ---
 
 [^1]: Check out what other people think on [Quora](https://www.quora.com/Why-do-we-always-want-to-be-right)
+
 [^2]: Interestingly, the word “right” or its stem in some languages such as Russian, French and obviously English used for directions as well.
+
 [^3]: Gladwell, Malcolm. Outliers: The story of success. Hachette UK, 2008.
 
 [^4]: Gladwell, Malcolm  David and Goliath: Underdogs, Misfits, and the Art of Battling Giants
