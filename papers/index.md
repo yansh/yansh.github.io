@@ -36,7 +36,7 @@ search_omit: true
 <li><article>
 <a href="http://link.springer.com/chapter/10.1007/978-3-642-15877-3_3" target="_blank" >Publish/Subscribe On Top of DHT Using RETE algorithm.
 <span class="entry-date">2010</span>
-<span class="excerpt">YYan Shvartzshnaider, Maximilian Ott and David Levy in Proceedings of In 3rd Future Internet Symposium </span></a></article>
+<span class="excerpt">Yan Shvartzshnaider, Maximilian Ott and David Levy in Proceedings of In 3rd Future Internet Symposium </span></a></article>
 </li>
 
 <li><article>
