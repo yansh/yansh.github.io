@@ -1,68 +1,143 @@
 ---
-layout: post
-title: "Rhythm"
-modified:
-categories: posts
-excerpt: A story of a soviet start-up
-tags: [start-ups, USSR]
 image:
-  feature:
-date: 2015-03-25T10:03:05-04:00
+  feature: ""
+layout: post
 share: true
+bibliography: ../citations.bib
+categories: posts
+modified: ""
+date: "2015-03-25T10:03:05-04:00"
+csl: ""
+excerpt: A story of a Soviet start-up
 comments: true
+tags:
+  - start-ups
+  - USSR
+title: Rhythm
 ---
 
+Recently, I had an interesting conversation with fellow named Mark, and it turns out, he had quite a story to tell me. This is a story about him starting a company in the Soviet Union, in 1987! Speaking of the wrong time and the wrong place! 
 
-In his book "Outlier the story of success" Malcolm Gladwell explore the stories behind successful and so fortunate people.  
+In current terms, the venture wasn’t an incredible success, i.e., it didn't make him rich, but it had real clients and revenue. I kept asking him more questions and even recorded some of it, so I could put in on paper. Talking to him, and the re-listening the recording, I can still feel the passion he had (probably still has for the idea, more on it later). To him it wasn’t about the money (we talking about USSR here), rather solving a problem, that he could so clearly see and others didn’t.
 
-> “Superstar lawyers and math whizzes and software entrepreneurs appear at first blush to lie outside ordinary experience. But they don't. They are products of history and community, of opportunity and legacy. Their success is not exceptional or mysterious. It is grounded in a web of advantages and inheritances, some deserved, some not, some earned, some just plain lucky - but all critical to making them who they are. The outlier, in the end, is not an outlier at all.”
+I decided to explore the topic a bit deeper, starting with this post. As he was telling me about the venture, I started to see a lot of symmetry in how he approached it then to what is preached by the start-up community gurus today. Mark, obviously, never read those books; many of them weren't permitted or exist in USSR, thus he didn't follow a particular script and yet I still can see all the preached patterns in his actions.
 
-When I read the book, it sounded as a very compelling argument, maybe too compelling. Overall, I agree with it, seemly as many other people, which explains its best seller status. 
+In this post, I would like to point out some of these points and hope to dive deep into the story in the subsequent posts.
 
-Shortly after reading the book, I had a conversation with my dad and it turns out, he had quiet a story to tell me. This is a story about him starting a company in Soviet Union, in 1986! Speaking of the wrong time and the wrong place! But, staying true to my message, I don't believe it's that black & white. The venture was incredible successful, with real client and revenue. It didn't make us rich, but I am still very proud of him for pursuing it.  So I decided to explore the topic a bit deeper, starting with this post. As he was telling me about the venture, I started to see a lot of symmetry in how he approached it then to what is preached by the start-up community gurus today. What is interesting my dad never read those books, first many of them didn't exist back in his days, he didn't follow a particular script and yet I still can see a pattern in his actions. This fascinates me because in all honesty I don't believe there is any pattern, it's just my find finds these similarities.
+#Opportunity
 
-In this post I would like to point out some of these point and hope to dive deep into the story in the subsequent posts.
+The mere idea of attempting a private venture in USSR was only possible due to new reforms that were introduced by Gorbachev. In particular, The Law on Cooperatives, that was introduced in 1987:
 
+> "The Law on Cooperatives, enacted in May 1987, was perhaps the most radical of the economic reforms during the early part of the Gorbachev regime. For the first time since Lenin's NEP, the law permitted private ownership of businesses in the services, manufacturing, and foreign-trade sectors" -- [Globalsecurity](http://www.globalsecurity.org/military/world/russia/gorbachev-perestroika.htm)
 
-#Rhythm
+This was the first time in many years people could start thinking, and maybe even say something about owning a business. Nevertheless, many still remembered Lenin's NEP, and the aftermath when Stalin came to power. This was a highly risky proposition.
 
-> Watch your souroundings
+NEP was well before Mark's time, so he was optimisting about the prospect. He was educated as an economist in chemistry production (rough translation from инженер экономист химической промышленности). Long story short (actually it's a great story, but for another post), he ended up as head of the production in a factory that processed fruits into juices, cans and etc within the region. In this role, he was in charge of production, i.e., making sure that things run smoothly and efficiently. As you might've guessed they didn't more on this later.
 
-My dad educated as an economist in chemistery production (rough translation). Long story short (actually it's a great story, but for another post), he ended up as a vice-director of a factory that processed fruits into juices, cans and etc within the region. Short time after, my dad noticed a room where they had an old computer. It wasn't used, because nobody knew how to use it but more importantly everyone thought there was no real need to use it. It turned out the machine was part of a so called measuremens control unit (KIP in Russian). The abscurity of the name translated into its ativity. Although, number of people where assigned to it, nobofy really knew what was the its primary purpose and subsequemtly their roles. As young director, my dad was shocked with some of the inefficiency in the overall operations. In particular, he was frustrated with the accounting department. They were using counting frames and paper for their calculations. Yes, counting frames!  
+After some time in that position, he noticed a room where they had an old computer. The room wasn't used because nobody knew how to use it but more importantly everyone thought there was no real need to use it. It turned out the machine was part of a so-called control and automation unit (контрольно-измерительные приборы и автоматизация (КИПиА) in Russian). The obscurity of the name translated into its actual activity when it came to utilising the computer. Although, there were a number of people where assigned to it nobody really knew what was its primary purpose and subsequently how their roles attached to it. For the record, this unit was designed to monitor the meters and other machinery in the factory. Please, remember we are talking about the 80s, USSR, Moldova region. I am not entirely sure that there weren't any devices or machinery that supported such capabilities, but still the machine (or a pile of metal, as Mark refers to it) was there.
 
-After being exposed to the problems. My dad thought, well he was really convinced that there is a better way of doing things. In hiensight this might seem obvious, especially today but back then replacing a human with a computer was almost inconvieable. Many apposed the idea. Dad tells me he needed to visit countless factories, attend conferences to see if it makes sense. He bacame in away obsessed with the idea that a computer can do that job more efficiently and he validated those assumption. 
-
-
-This is not the first time my dad was exposed to computers. The uni he attended used computers for some tasks. My dad didn't really know the nuts and bolts but they have left a profound impression on him that computers can do some tasks much better than humans, counting is one of them. He asked the head of the facotry to transfer him to be incharge of KIP as soon as possible. In elaborate pitch, he promised him great things. He know admits he didn't know would they be but he was became obsessed with the idea of utilising this machine. Ultimently, after some negotions he was transfered as he head of KIP. This is when he says the fun begun!
-
-As soon as he was trasnfered, my dad wanted to learn the capabilities behind the machine, so he travelled to Ukraine were it was manufactured. This was a lab in the Ukrainian university, were a bunch of researchers were working on the next model. 
-
-The machine was a veriation of a mainframe. It required terminals - robotorons.
-
-// Add more info on Sovient computers
-These were manifactured elsewhere in Ukraine, city of Vinitza. He arranged a number of terminals for his unit back in the factory.
-
-Vinitza chasti i terminali for it.
-
-So once he managed to arrange the terminals and spare parts for his computer. He actually convince the folks in Ukraine, Kiev to borrow their latest computer. This was unheard of -- a small regiion in Moldova was now in the bleeding edge of computer revolution. That would even make the Moscow guys gelioucs, joked my dad. People talk about today about shortage of software engineers, but reality my dad found hiself. Not only there were no real software developers, the concpet was so foreign More so, he also convince a few of the researchers and developers to come back with him to Moldova to help him set up the system and help boot strap it. This is where the real brainstorminh begun. They all knew that they have something powerful so they started to think how the computer can be used. This brought them back to how to what computer did best -- count! It became clear that they can make accounting so much more efficient by replacing the manual labour.
-
-It seems so obvious to me when he tells me the story but back then it was inconsible. My dad was a visionary of his time and had to convinvce the region party members and his supiriours that this is something worth purscuing. It wasn't easy.
+This is not the first time Mark was exposed to computers. The two unis he attended used computers such as [Ural 2](<https://en.wikipedia.org/wiki/Ural_(computer)>) — and
+[Nairi](<https://en.wikipedia.org/wiki/History_of_computer_hardware_in_Soviet_Bloc_countries#Nairi>).
+Nevertheless, he didn't really know the nuts and bolts (though he tells me, he was at some point coding an assignment on Nairi), in any case, these have left a profound impression on him. In particular, to him it was clear that computers can do some tasks much better than humans, things like counting was in the top of this list.
 
 
-Felix...
+#Pitch
 
-PItch, we will take the whole region
+So after a short while, he was really keen to know what the machine in that room
+is able to do. He asked the head of the factory then to create a new center for computing that will be in charge of delivering new innovations. Yes, you heard me, computer centre for innovation in a Soviet republic. In an elaborate pitch, he promised the head of the factory great things. He now admits he didn’t know would they be, but he became obsessed with the idea of utilizing computers.
+The head of the factory was luckily open to progressive and innovative ideas and was supportive of the initiative the whole way through.
 
-It was incredible for worker to get a printout of what his is paid and owns. 
-
-> Nobody will help you and probably thinks you're crazy
-
-As I mentioned, a lot have appossed the idea. Some due to the ignorance, some due politics (you don't want to be blame for something in sovient times :) My dad was head of production, so he had some leverage, mainly people didn't tell he is crazy to his face but the way he tells, they were counting on it to fail. 
-
-> Low on resources? get creative! Assetitives and convincing.
-
-> Assemble team
+However, many others have apposed the idea. Some due to the ignorance, some due
+politics (you don’t want to be blamed for something in Soviet times :)
+Mark was head of production, so he had some leverage, mainly people didn’t tell he is crazy to his face but the way he tells, they were counting on it to fail. Ultimately, after some negotiation, new technological center, RYTHM, was conceived. This is when he says the fun begun!
 
 
+As the head of the center, Mark first wanted to learn the capabilities behind the machine - it was called SM4[^6]. The machine was a variation of a mainframe. Turn out it wasn’t that powerful, low on memory[^1] (I can believe that) and SDKs and hence no real apps designed for a factory production system. He tells me: “SM4 without anything else was extremely expensive piece of metal.” He needed to upgrade it.
 
-> Grant from the regional funds. Ivanom Karl Karlovich, genral dirktor.
+[^1]: CM4 was operating on ferrite, magnetic core memory<https://en.wikipedia.org/wiki/Magnetic-core_memory>
+
+
+He found out that SM4 was manufactured in Ukraine — to [Electronmash office ,
+Kiev](<http://www.icfcst.kiev.ua/MUSEUM/PHOTOS/VUM_building.html>). So Mark traveled there. This was a huge factory, leading in Ukraine, which also had a lab where researchers were working on the next model (SM1420[^7]).
+
+[^7]: https://en.wikipedia.org/wiki/SM-1420
+
+<figure class="image"><img src="{{ site.url }}/images/SM-4.jpg">
+ <figcaption>"Control computer complex of the unified small computer system SM-4. In the 70th-80th of XX century Kiev Scientific and Production Association "Electronmash" was oriented by the Ministry of Instrument Building of the USSR to produce machines of the SM ECM type" - http://ukrainiancomputing.info/PHOTOS/SM-4.html
+</figcaption></figure>
+
+ <figure class="image"><img src="{{ site.url }}/images/VUM_building.jpg">
+ <figcaption>"Electronmash office block. Kiev scientific and production association "Electronmash" (previously plant VUM) established in 1965 as an initiative of the Institute of Cybernetics, AS Ukr.SSR, supported by the Government" -- http://ukrainiancomputing.org/PHOTOS/VUM_building.html
+</figcaption></figure>
+
+##The Work
+
+So the main bulk of his work went to finding parts to upgrade his SM4 into something usable. This was harder to do than it seems at those days because of the planned economy[^2], where everything is done according to a predetermined plan. Initiatives are deviations from the plan, and in most cases was considered as attempts to hinder the Plan. So all money was part of a dedicated plan that was conceived by the party leaders from the ministry of then-Soviet republic of Moldova. Any divergence from delivering funds might be considered as stealing and usually led to unwanted consequences. It required permission by high-level people in the region, such as ministers, head of factories etc.
+
+[^2]: Some experts suggest it was really **administrative command economy.**
+
+Another interesting fact, that is how things were required in those days. You needed a certificate, or Power of attorney, from higher authority that you have the needed funds (in Russian, Доверенность). So essentially, you would show up with ta signed piece of
+paper that basically assures that somebody will transfer the funds. In the word,
+that this purchase was part of someone's plan.
+
+Mark needed memory, terminals, printer, cables, etc. There was no one-stop
+shop for it, actually it seems there was no way to buy it in any shop. These
+parts were manufactured in different regions, government labs, often under different
+jurisdictions (i.e., with different plans). For example, the terminals were made in Ukraine, Vinitza. He arranged[^3] a number of terminals, which were needed for input of information.
+
+[^3]: Not many of the readers probably know the true meaning behind the word “arranged" in the previous sentence, but it certainly required ingenuity and creativity in negotiation. Although, I truly believe, Mark's ability to manifest those "deals" practically out of thin air are really as a result of many factors, which included passion, necessity, and LUCK.
+
+
+Besides the parts, my dad needed people to work on the system and develop
+software. People talk about today about a shortage of software engineers, but
+reality my dad found himself. Not only there were no real professional software
+developers, the concept was so foreign in the region[^4]. More so, he also convinced a few of the researchers and developers to come back with him to Moldova to help him set up the system and help bootstrap it. 
+
+[^4]: This might not be the case in major cities. Places like Kiev (Ukraine), Moskva (Russian) and other major metropolitans were probably ahead of the game. But in Moldovian, village of a city type, computers were certainly a familiar concept.
+
+#MVP
+
+They needed to come up with some ideas to prove the power by this initiative. By that time, after spending time at the factory, he was exposed to many problems. He tells me he became frustrated with the accounting and HR departments. As young head of production, Mark was shocked with some of the inefficiency in the overall operations. They were using counting frames (see the image) and paper for their calculations. Yes, counting frames!  
+
+<figure class="image"><img src="{{ site.url }}/images/220px-Schoty_abacus.jpg">
+<figcaption>
+"The Russian abacus, the schoty (счёты), usually has a single slanted deck, with ten beads on each wire (except one wire, usually positioned near the user, with four beads for quarter-ruble fractions). Older models have another 4-bead wire for quarter-kopeks, which were minted until 1916."-https://en.wikipedia.org/wiki/Abacus
+</figcaption></figure>
+
+
+Mark thought, well he was really convinced that there is a better way of doing things.  He became in a way obsessed with the idea that a computer can do that job more efficient. I guess he was eager and needed to prove himself.  He tells me, once I heard that a single machine can do millions of operations in a second, he  knew that people, no matter how many and how good they are will never keep up. This is the future! 
+
+This was his idea in a nutshell: All information on production, HR etc supplied by the factories into a database which will then be used to produce reporting and required calculation and analysis. So for example, an employee should be able to know what is he is paid for, what is deducted, what he owns, etc. This is your standard pay slip, which at that time didn’t exist. Actually Mark was told that printing (SM 6315 Printer in the Figure) such a slip that cross-references information from different data sources is practically impossible. There was not software for it, so his developers need to create it.
+ 
+In hindsight this might seem obvious, especially today but back then replacing a human with a computer was almost inconceivable. Many opposed the idea; afraid that they will lose their jobs (or worse). 
+
+
+<figure class="image"><img src="{{ site.url }}/images/SM6315.jpg">
+<figcaption>
+"AZPU "CM 6315", parallel printing device (head developers: L.D.Shabas, A.A.Lorman)." -- http://ukrainiancomputing.info/PHOTOS/SM6315.html
+</figcaption></figure>
+
+
+# Growth
+
+He continued to computerise his factory, cables were going everywhere, connecting terminals to offices, reports were printed, etc. In a way, he  became obsessed with the idea that a computer can do that job more efficiently. Mark tells visited countless factories, attend conferences to learn more about the capabilities and see if it makes sense to the other factories.
+
+So things are going really well. He had the system operational and that brought some interest from other factories and farms (throughout). At this point, Mark  tells me he realised that he cannot fulfil all the demand and what he wanted to do, so RYTHM needed to be a separate entity that will provide HR and other reporting as a service. This is where Gorbachev's perestroika came handy :) Although, people weren't sure how long it will last. Still, he needed the ministry of the region to approve of his plans and make it legit.
+
+Besides that, obviously there was no real physical infrastructure for it, all the needed documentation/information was collected manually and inputted using the terminals. Once the information was in, the software was able to produce reports that the head of factories and HR couldn't even dream about. 
+
+Oh, yes, he needed a new machine, the one that he had refurbished over three years, had to remain in the factory. Those things were incredibly expensive, as anyone can imagine. The power of authority would only take thus far, but his now friends in Elektronmash came through and lent him their testing machine (for "temporal usage"). This was the next SM model, SM-1420! They also came back with him to once again to set and configure it. I presume, seing their beloved machine in action, was really important to them. 
+
+Things were starting to heat up. Mark was getting more demand for his services, and by then he was competing directly Central Statistical Administration  (Russian: Центральное Статистическое Управление). His equipment was superior, he had better software and was able to provide a much better service.
+
+In his business statement, he tried to be as vague as possible as to what is the core business value proposition. Obviously he wanted to continue with producing reports but he had biggers plans. He wanted to completely replace people on the production floor. Industrial IoT anyone? You would think, these weren't science fiction thoughts at the time. He actually had a plan how to set the whole thing up, and even started experimenting by putting cables through out the factories -- this is unbelievable because this was 1989!
+
+He also believed in education and insisted that students from the schools in the area come to his lab to work on computers. The school had a very old, almost primitive version of [Robotron](https://ru.wikipedia.org/wiki/Robotron), Mark wanted them to program on something that's a bit closer to the state of the art. You can imagine that computer subjects weren't very popular, more like a side project. It took some convincing and explaining to the head of the school, but eventually students came. 
+
+
+*Mark is my dad.*
+
+This idea seems so obvious to me when he tells me the story but back then it was inconceivable. Now, I vaguely knew about it, but back then I was too little to comprehend what my dad was trying to achieve. I am very proud of him for pursuing it. He was a visionary of his time and had to convince the region party members and his superiors that this is something worth pursuing. It wasn’t easy, but lots of people helped him along the way and without nothing would’ve worked.  He also had some share of luck but as they saying goes, luck favorites the brave.
+
+[^6]: ["most models were PDP-11 clones, while some others were HP 2100, VAX or Intel compatible"](https://en.wikipedia.org/wiki/List_of_Soviet_computer_systems)s
+ 
