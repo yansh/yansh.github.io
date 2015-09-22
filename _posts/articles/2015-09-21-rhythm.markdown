@@ -17,7 +17,7 @@ tags:
 title: Rhythm
 ---
 
-Recently, I had an interesting conversation with a fellow named Mark, and it turns out, he had quite a story to tell me. This is a story about him starting a company in the Soviet Union, in 1988! Speaking of the wrong time and the wrong place! 
+Recently, I had an interesting conversation with a fellow named Mark, and as it turns out, he had quite a story to tell me. This is a story about him starting a company in the Soviet Union, in 1988! Speaking of the wrong time and the wrong place! 
 
 The venture didn't make him rich, but it had real clients and even revenue. I kept asking him more questions and even recorded some of it, so I could put in on paper. Talking to him, and the re-listening the recording, I can still feel the passion he had (probably still has) for the idea. To him it wasn’t about the money (we are talking about USSR here), rather it was about solving problems, that he could so clearly see and others didn’t!
 
@@ -53,7 +53,7 @@ Luckily, the head of the factory was open to progressive and innovative ideas an
 
 However, many others have opposed the idea. Some due to the ignorance,  others due to 
 politics (you don’t want to be blamed for anything in Soviet times). 
-Mark was head of production, so he had some leverage, mainly people didn’t tell him that they thought he was crazy straight to his face, but the way he tells, they were counting on it to fail. Ultimately, after some negotiation, new technological center, RYTHM, was conceived. This is when he says the fun begun!
+Mark was head of production, so he had some leverage, mainly people didn’t tell him that they thought he was crazy straight to his face, but the way he tells me, they were counting on it to fail. Ultimately, after some negotiation, new technological center, RYTHM, was conceived. This is when he says the fun begun!
 
 
 ## Funds and resources
@@ -71,7 +71,7 @@ Kiev](<http://www.icfcst.kiev.ua/MUSEUM/PHOTOS/VUM_building.html>). So Mark trav
 
 Naturally, the main bulk of his initial work went to finding parts to upgrade his SM4 into something usable. Mark needed quite a few things memory, terminals, printer, cables, etc. There was no one-stop shop for it, actually it seems there was no way to buy it in any shop. These parts were manufactured in different regions, government labs, often under different jurisdictions (i.e., with different plans). For example, Mark arranged[^3] a number of terminals for his center, which were used for input of information. He had to travel all the way to Ukraine, Vinitza to get them.
 
-This was harder to do than it seems. In those days because of the planned economy[^2]. All the capital was part of a dedicated plan that was conceived by the party leaders from the ministry of the then-Soviet republic of Moldova. Any divergence from delivering funds according to the Plan, considered as stealing and usually led to unwanted consequences. Everything required permission by high-level people in the region, such as ministers, head of factories etc. They needed to issue a Power of attorney that you have the needed funds (in Russian, Доверенность). So essentially, you would show up with the  signed piece of paper that basically assured that somebody will transfer the funds. In other  words, that the purchase was part of someone's plan. Luckily for Mark, the head of the factory was on his side, and found ways to support his initiates. 
+This was harder to do than it seems in those days because of the planned economy[^2]. All the capital was part of a dedicated plan that was conceived by the party leaders from the ministry of the then-Soviet republic of Moldova. Any divergence from delivering funds according to the Plan, considered as stealing and usually led to unwanted consequences. Everything required permission by high-level people in the region, such as ministers, head of factories etc. They needed to issue a Power of attorney that you have the needed funds (in Russian, Доверенность). So essentially, you would show up with the  signed piece of paper that basically assured that somebody will transfer the funds. In other  words, that the purchase was part of someone's plan. Luckily for Mark, the head of the factory was on his side, and found ways to support his initiates. 
 
 <figure class="image"><img src="{{ site.url }}/images/SM-4.jpg">
  <figcaption>"Control computer complex of the unified small computer system SM-4. In the 70th-80th of XX century Kiev Scientific and Production Association "Electronmash" was oriented by the Ministry of Instrument Building of the USSR to produce machines of the SM ECM type" - http://ukrainiancomputing.info/PHOTOS/SM-4.html
