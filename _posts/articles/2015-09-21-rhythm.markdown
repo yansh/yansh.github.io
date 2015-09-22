@@ -33,7 +33,7 @@ The mere idea of attempting a private venture in USSR was only possible due to n
 
 This was the first time in many years people could start thinking, and maybe even say something about owning a business. Nevertheless, many still remembered Lenin's NEP, and the aftermath when Stalin came to power. This was a highly risky proposition.
 
-NEP was well before Mark's time, so he was optimisting about the prospect. He was educated as an economist in chemistry production (rough translation from инженер экономист химической промышленности). Long story short (actually it's a great story, but for another post), he ended up as head of the production in the region's canning factory (консервный завод). Part of his role was to make sure that things run smoothly and efficiently. As you might've guessed they didn't, but more on that later.
+NEP was well before Mark's time, so he was optimistic about the prospect. He was educated as an economist in chemistry production (rough translation from инженер экономист химической промышленности). Long story short (actually it's a great story, but for another post), he ended up as head of the production in the region's canning factory (консервный завод). Part of his role was to make sure that things run smoothly and efficiently. As you might've guessed they didn't, but more on that later.
 
 After some time in that position, he noticed a room where they had an old computer. The room wasn't used because nobody knew how to use the machine, but more importantly everyone thought there was no real need to use it. It turned out the machine was part of a so-called control and automation unit (контрольно-измерительные приборы и автоматизация (КИПиА) in Russian). The obscurity of the name translated into its actual activity when it came to utilising the computer. Although, there were a number of people assigned to the team, nobody really knew what was the purpose of the computer and subsequently how their roles attached to it. For the record, this unit was designed to monitor the meters and other machinery in the factory. Please, remember we are talking about the 80s, USSR, Moldova region. I am not entirely sure that there was any devices or machinery that supported such capabilities, but still the machine (or a pile of metal, as Mark refers to it) was there.
 
@@ -69,7 +69,7 @@ Kiev](<http://www.icfcst.kiev.ua/MUSEUM/PHOTOS/VUM_building.html>). So Mark trav
 [^7]: https://en.wikipedia.org/wiki/SM-1420
 
 
-Naturally, the main bulk of his initial work went to finding parts to upgrade his SM4 into something usable. Mark needed quite a few things memory, terminals, printer, cables, etc. There was no one-stop shop for it, actually it seems there was no way to buy it in any shop. These parts were manufactured in different regions, government labs, often under different jurisdictions (i.e., with different plans). For example, Mark arranged[^3] a number of terminals for his center, which were used for input of information. So he traveled to Ukraine, Vinitza to get them.
+Naturally, the main bulk of his initial work went to finding parts to upgrade his SM4 into something usable. Mark needed quite a few things memory, terminals, printer, cables, etc. There was no one-stop shop for it, actually it seems there was no way to buy it in any shop. These parts were manufactured in different regions, government labs, often under different jurisdictions (i.e., with different plans). For example, Mark arranged[^3] a number of terminals for his center, which were used for input of information. He had to travel all the way to Ukraine, Vinitza to get them.
 
 This was harder to do than it seems. In those days because of the planned economy[^2]. All the capital was part of a dedicated plan that was conceived by the party leaders from the ministry of the then-Soviet republic of Moldova. Any divergence from delivering funds according to the Plan, considered as stealing and usually led to unwanted consequences. Everything required permission by high-level people in the region, such as ministers, head of factories etc. They needed to issue a Power of attorney that you have the needed funds (in Russian, Доверенность). So essentially, you would show up with the  signed piece of paper that basically assured that somebody will transfer the funds. In other  words, that the purchase was part of someone's plan. Luckily for Mark, the head of the factory was on his side, and found ways to support his initiates. 
 
@@ -89,7 +89,7 @@ This was harder to do than it seems. In those days because of the planned econom
 
 
 Besides the parts, Mark needed people to work on the system and develop specialised 
-software. People today talk about about a shortage of software engineers, but this is far cry from the reality of those days. There were only a handful of professional software
+software. People today talk about a shortage of software engineers, but this is a far cry from the reality of those days. There were only a handful of professional software
 developers, the concept foreign in the region[^4]. In the beginning, Mark only had one developer. He then convinced a few of the researchers and developers come back with him from Kiev to Moldova to help him set up the system and help bootstrap it. 
 
 [^4]: This might not be the case in major cities. Places like Kiev (Ukraine), Moskva (Russian) and other major metropolitans were probably ahead of the game. 
@@ -106,7 +106,7 @@ Next, Mark needed to come up with some ideas to prove the power of this initiati
 
 Mark thought, well he was convinced that there is a better way of doing things. I guess he was eager and needed to prove himself.  He tells me, once he heard that a single machine can do millions of operations in a second, he  knew that people, no matter how many and how good they are will never keep up. This was the future! 
 
-His idea in a nutshell: *All information on production, HR etc supplied by the factories into a database which will then be used to produce reporting and required calculation and analysis. So for example, an employee should be able to know what he is paid? what is deducted? what he owns? etc. This is your standard payslip, which at that time didn’t exist. Actually Mark was told that printing such a slip that cross-referenced information from different data sources is practically impossible. There was not software for it, so his developers need to create it. Furthermore, as head of production he wanted to know how much was produced, sold, throw out, etc.* 
+His idea in a nutshell: *All information on production, HR etc supplied by the factories and entered into a database which was then used to produce reporting, required calculation, and analysis. So for example, an employee should be able to know what he is paid? what is deducted? what he owns? etc. This is your standard payslip, which at that time didn’t exist. Actually Mark was told that printing such a slip that cross-referenced information from different data sources is practically impossible. There was not software for it, so his developers need to create it. Furthermore, as head of production he wanted to know how much was produced, sold, throw out, etc.* 
 
 In hindsight this might seem obvious, especially today but back then replacing a human with a computer was almost inconceivable. Many opposed the idea; afraid that they will lose their jobs (or worse). Sounds familiar? :)
 
@@ -125,21 +125,21 @@ So things were starting to go really well. His team grew. He had an operational 
 
 In his business statement, he tried to be as vague as possible as to what is the core business value proposition. Obviously he wanted to continue with producing reports but he had bigger  plans. He wanted to completely replace people on the production floor. *Industrial IoT anyone?* You would think these weren't science fiction thoughts at the time, but he actually had quite a realistic plan on how to set the whole thing up and even started experimenting  -- this is quite unbelievable for 1989!
 
-Remember, all of this was done without any real physical infrastructure in place: all the needed documentation/information was collected manually and inputted using the terminals. Once the information was in, the software was able to produce reports that the head of factories and HR couldn't even dream about. 
+Remember, all of this was done without any real physical infrastructure in place: all the needed documentation/information was collected, and manually inputted using the terminals. Once the information was in, the software was able to produce reports that the head of factories and HR couldn't even dream about. 
 
 Oh, yes, he needed a new machine for the now separate venture, the one he had refurbished remained in the factory. As mentioned, such machines were incredibly expensive. The power of authority would only take thus far, but his now friends in Elektronmash came through and lent him their testing machine (for "temporal usage"). This was the next SM model, SM-1420! They also came back with him to once again to set and configure it. I presume, seeing their beloved machine in action, was really important to them. 
 
 Things were starting to heat up. Mark was getting more demand for his services, and by then he was competing with Central Statistical Administration  (Russian: Центральное Статистическое Управление). His equipment was superior, he had better software and was able to provide a much better service.
 
 He also believed in education and insisted that students from the school in the area come to his lab to work on computers. The school had very old, almost primitive  [Robotron](https://ru.wikipedia.org/wiki/Robotron) computers, Mark wanted them to program on something that's a bit closer to the state of the art. You can imagine that computer subjects weren't very popular, more like a side project. It took some convincing and explaining to the head of the school, but eventually students came. 
-He also made efforts to computerize the school itself by arranging better computers and even installed an electronic whiteboard that would display questions and students could pick the right answer using a specially designed ruler. WOw!
+He also made efforts to computerize the school itself by arranging better computers and even installed an electronic whiteboard that would display questions and students could pick the right answer using a specially designed ruler. WOW!
 
-Mark continues to run the start-up until mid-90s, when things in the country got really shaky. RHYTHM closed its operations on June 15, 1990.
+Mark continues to run the start-up until the mid-90s, when things in the country got really shaky. RHYTHM closed its operations on June 15, 1990.
 
 ---
 
 
-**Minor disclaimer:** *Mark is my dad. The above story is a subjective depiction of the events. I vaguely knew about his work, but back then I was too little to comprehend what my dad was trying to achieve. I am very proud of him for pursuing it. He was a visionary of his time and had to convince the region party members and his superiors that this is something worth pursuing. It wasn’t easy, but lots of people helped him along the way and without nothing would’ve worked.*
+**Minor disclaimer:** *Mark is my dad. The above story is a subjective depiction of the events. I vaguely knew about his work, but back then I was too little to comprehend what my dad was trying to achieve. I am very proud of him for pursuing it. He was a visionary of his time and had to convince the region party members and his superiors that this is something worth pursuing. It wasn’t easy, but lots of people helped him along the way and without them nothing would’ve worked.*
 
 *His ideas of computerizing factories and education seem so obvious to me, but back then it was inconceivable.  He also had some share of luck but as they saying goes, luck favorites the brave.*
 
@@ -147,7 +147,7 @@ Mark continues to run the start-up until mid-90s, when things in the country got
 
 #P.S.
 
-I am sure that there were other entrepreneurs at the time. It would be great to hear their stories. In my eyes, these people embody the true meaning of the word *entrepreneurship*. In times of great uncertainty and turmoil, they took great risks, often with little financial reward in the name of making things better by solving problem within their respective societies. We can all learn from their stories. 
+I am sure that there were other entrepreneurs at the time. It would be great to hear their stories. In my eyes, these people embody the true meaning of the word *entrepreneurship*. In times of great uncertainty and turmoil, they took great risks, often with little financial reward in the name of making things better by solving problems within their respective societies. We can all learn from their stories. 
 
 
 
