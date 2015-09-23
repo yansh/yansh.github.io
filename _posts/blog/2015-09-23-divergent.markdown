@@ -3,7 +3,7 @@ layout: post
 title: Divergent
 excerpt: choose the norms for your privacy wisely
 comments: true
-categories: posts
+categories: blog
 image:
   feature: ""
 share: true
