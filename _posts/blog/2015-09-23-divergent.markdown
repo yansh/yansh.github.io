@@ -16,7 +16,7 @@ tags:
 
 Online Social Networks (OSNs) have revolutionised the way we communicate with
 each other. Nevertheless, it has become harder to keep our information private.
-Privacy policies, in current "social networ" systems, are typically
+Privacy policies, in current OSNs, are typically
 determined by a service provider; Facebook and Google decide the notion of
 privacy in their respective social networks. 
 
