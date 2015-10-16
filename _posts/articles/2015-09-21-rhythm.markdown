@@ -31,7 +31,7 @@ The mere idea of attempting a private venture in USSR was only possible due to n
 
 > The Law on Cooperatives, enacted in May 1987, was perhaps the most radical of the economic reforms during the early part of the Gorbachev regime. For the first time since Lenin's NEP, the law permitted private ownership of businesses in the services, manufacturing, and foreign-trade sectors -- [Globalsecurity](http://www.globalsecurity.org/military/world/russia/gorbachev-perestroika.htm)
 
-This was the first time in many years people could start thinking, and maybe even say something about owning a business. Nevertheless, many still remembered Lenin's NEP, and the aftermath when Stalin came to power. This was a highly risky proposition.
+This was the first time in many years people could start thinking, and maybe even say something about owning a business. Nevertheless, many still remembered Lenin's  [New Economic Policies (NEP)](https://en.wikipedia.org/wiki/New_Economic_Policy), and the aftermath when Stalin came to power. This was a highly risky proposition.
 
 NEP was well before Mark's time, so he was optimistic about the prospect. He was educated as an economist in chemistry production (rough translation from инженер экономист химической промышленности). Long story short (actually it's a great story, but for another post), he ended up as head of the production in the region's canning factory (консервный завод). Part of his role was to make sure that things run smoothly and efficiently. As you might've guessed they didn't, but more on that later.
 
@@ -108,7 +108,7 @@ Mark thought, well he was convinced that there is a better way of doing things. 
 
 His idea in a nutshell: *All information on production, HR etc supplied by the factories and entered into a database which was then used to produce reporting, required calculation, and analysis. So for example, an employee should be able to know what he is paid? what is deducted? what he owns? etc. This is your standard payslip, which at that time didn’t exist. Furthermore, as head of production he wanted to know how much was produced, sold, throw out, etc.*
 
-Mark was told that printing such a slip/report that cross-referenced information from different data sources is practically impossible. There was not software for it, so his developers need to create it. He proved them wrong.
+Mark was told that printing such a slip/report that cross-referenced information from different data sources is practically impossible. He proved them wrong. There was not software for it, so his developers need to create it. 
 
 In hindsight this might seem obvious, especially today but back then replacing a human with a computer was almost inconceivable. Many opposed the idea; afraid that they will lose their jobs (or worse). Sounds familiar? :)
 
