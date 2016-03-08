@@ -3,16 +3,15 @@ image:
   feature: ""
 layout: post
 share: true
-categories: posts
+categories: articles
 modified: ""
 date: "2016-03-07T10:03:05-04:00"
 title: "Diversity"
 excerpt: "there are 10 kinds of people, those who read binary and those don’t"
 comments: true
 tags:
-  - ida
-  - intent
-  - design
+  - Diversity
+  - Engineering
 ---
 
 I guess the desire to be surrounded by common to us things is embedded in us by the evolution. We survive by sticking together in a family, tribe. This is why we feel comfortable being surrounded by less diverse to us crowd. In this context, new means "danger". These questions are being investigated by much smarter people than me, though I cannot help but to speculate that it is not what nature has initially intended for us. More so, it hindered and in many ways continues to stall our progress quite significantly. If we think about it, sharing, trading and mingling with other cultures really brought the best of us, most of the time. Once we discovered ways to commute and, more importantly, communicate with other we reached new highs on all fronts. So it seems any challenges that might be associated with the new, different and unknown, even ultimately dangerous at times, really tend to make us push our limits and establish a new norm, typically a better one. So whenever we are "comfortable" in our surroundings and "satisfied", we are in danger of missing out on truly maximising our potential, as people, group, society.
@@ -23,4 +22,4 @@ To strengthen my point, I think it is useful to look at a domain such as Enginee
 
 While building system, as engineers we see the big picture: how different components working together making for a better system, while as people we are programmed to be happy with the local maxima. As designers, engineers we embrace and even seek diversity, however, collectively as humanity we seem to be afraid of it or challenge its benefits. Granted, things are gradually changing. We notice the workplaces start to encourage diversity, also diversity is more often spoken about and students are motivated to write essays about it. Like this one. Nevertheless, to me, it seems that we already failed the  “diversity test” once we feel that we need to motivate diversity. My argument here is that in many domains diversity is not encouraged it’s the expected norm; it’s hidden and not obvious and that what makes it so powerful. We shouldn't forget that, after all, diversity is a yet another label we humans invented alongside many other labels. These make our life easier: We can blame, glorify, worship and cherish things that are well defined, concepts that are visible and understood to us. Yet there is a great power in the unknown and combining different ideas, people and verity of other things tend to work out well collectively.
 
-In summary, I think by limiting diversity (in anything) we limit progress, any progress. It is hard to fight our inherent feelings and perspectives that were formed by our experiences as we grow, but we can always be aware of their limitation and use heuristics to improve ourselves and the processes we manage.  As a rule, if you are building something that lacks diversity, you are probably doing it wrong. If you are part of the team of people who are very similar to each other, you are at a risk of stalling your progress. All rules/habits have "exceptions", learning from those that challenge our convectional thinking is what diversity is all about.
+In summary, I think by limiting diversity (in anything) we limit progress, any progress. It is hard to fight our inherent feelings and perspectives that were formed by our experiences as we grow, but we can always be aware of their limitation and use heuristics to improve ourselves and the processes we manage.  As a rule, if you are building something that lacks diversity, you are probably doing it wrong. If you are part of the team of people who are very similar to each other, you are at a risk of stalling your progress. All rules/habits have "exceptions", learning from those that challenge our conventional thinking is what diversity is all about.
