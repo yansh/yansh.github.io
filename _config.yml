@@ -14,7 +14,7 @@ permalink:   /:categories/:title/
 markdown:    kramdown
 redcarpet:
     extensions: [footnotes]
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
