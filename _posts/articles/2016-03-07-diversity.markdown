@@ -15,10 +15,10 @@ title: Diversity
 ---
 
 I guess the desire to be surrounded by common to us people is embedded in us by
-the evolution. We survive by sticking together in a family, tribe. This is why
-we feel comfortable being surrounded by less diverse to us crowd. In this
-context, new or unfamiliar means "danger". These questions are being
-investigated by much smarter people than me, though I cannot help but to
+the evolution. We survive by sticking together in a family, tribe. Presumably,
+this is also why we feel comfortable being surrounded by less diverse to us
+crowd. In this context, new or unfamiliar means "danger". These questions are
+being investigated by much smarter people than me, though I cannot help but to
 speculate that it is not what nature has initially intended for us. More so,
 this type of approach has hindered and in many ways continues to stall our
 progress quite significantly. If we think about it, sharing, trading and
