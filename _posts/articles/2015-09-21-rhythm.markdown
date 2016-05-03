@@ -13,11 +13,11 @@ comments: true
 tags:
   - start-ups
   - USSR
-  
+
 title: Rhythm
 ---
 
-Recently, I had an interesting conversation with a fellow named Mark, and as it turns out, he had quite a story to tell me. This is a story about him starting a company in the Soviet Union, in 1988! Speaking of the wrong time and the wrong place! 
+Recently, I had an interesting conversation with a fellow named Mark, and as it turns out, he had quite a story to tell me. This is a story about him starting a company in the Soviet Union, in 1988! Speaking of the wrong time and the wrong place!
 
 The venture didn't make him rich, but it had real clients and even revenue. I kept asking him more questions and even recorded some of it, so I could put it down on paper. Talking to him, and the re-listening the recording, I can still feel the passion he had (probably still has) for the idea. To him it wasn’t about the money (we are talking about USSR here), rather it was about solving problems, that he could so clearly see and others didn’t!
 
@@ -46,13 +46,13 @@ Even though he didn't really know the nuts and bolts of computing[^8], these pas
 #Pitch
 
 So after a short while, he was really keen to know what the machine in that room
-is able to do. He asked the head of the factory then to create a new center for computing that will be in charge of delivering new innovations. Yes, you heard me, computer center for innovation in a Soviet republic! 
+is able to do. He asked the head of the factory then to create a new center for computing that will be in charge of delivering new innovations. Yes, you heard me, computer center for innovation in a Soviet republic!
 
 In an elaborate pitch, he promised the head of the factory great things. He now admits he didn’t know what exactly would those "great things" be, but he became obsessed with the idea of utilizing computers.
 Luckily, the head of the factory was open to progressive and innovative ideas and was supportive of the initiative the whole way through.
 
-However, many others have opposed the idea. Some due to the ignorance,  others due to 
-politics (you don’t want to be blamed for anything in Soviet times). 
+However, many others have opposed the idea. Some due to the ignorance,  others due to
+politics (you don’t want to be blamed for anything in Soviet times).
 Mark was head of production, so he had some leverage, mainly people didn’t tell him that they thought he was crazy straight to his face, but the way he tells me, they were counting on it to fail. Ultimately, after some negotiation, new technological center, RYTHM, was conceived. This is when he says the fun begun!
 
 
@@ -71,7 +71,7 @@ Kiev](<http://www.icfcst.kiev.ua/MUSEUM/PHOTOS/VUM_building.html>). So Mark trav
 
 Naturally, the main bulk of his initial work went to finding parts to upgrade his SM4 into something usable. Mark needed quite a few things memory, terminals, printer, cables, etc. There was no one-stop shop for it, actually it seems there was no way to buy it in any shop. These parts were manufactured in different regions, government labs, often under different jurisdictions (i.e., with different plans). For example, Mark arranged[^3] a number of terminals for his center, which were used for input of information. He had to travel all the way to Ukraine, Vinitza to get them.
 
-This was harder to do than it seems in those days because of the planned economy[^2]. All the capital was part of a dedicated plan that was conceived by the party leaders from the ministry of the then-Soviet republic of Moldova. Any divergence from delivering funds according to the Plan, considered as stealing and usually led to unwanted consequences. Everything required permission by high-level people in the region, such as ministers, head of factories etc. They needed to issue a Power of attorney that you have the needed funds (in Russian, Доверенность). So essentially, you would show up with the  signed piece of paper that basically assured that somebody will transfer the funds. In other  words, that the purchase was part of someone's plan. Luckily for Mark, the head of the factory was on his side, and found ways to support his initiates. 
+This was harder to do than it seems in those days because of the planned economy[^2]. All the capital was part of a dedicated plan that was conceived by the party leaders from the ministry of the then-Soviet republic of Moldova. Any divergence from delivering funds according to the Plan, considered as stealing and usually led to unwanted consequences. Everything required permission by high-level people in the region, such as ministers, head of factories etc. They needed to issue a Power of attorney that you have the needed funds (in Russian, Доверенность). So essentially, you would show up with the  signed piece of paper that basically assured that somebody will transfer the funds. In other  words, that the purchase was part of someone's plan. Luckily for Mark, the head of the factory was on his side, and found ways to support his initiates.
 
 <figure class="image"><img src="{{ site.url }}/images/SM-4.jpg">
  <figcaption>"Control computer complex of the unified small computer system SM-4. In the 70th-80th of XX century Kiev Scientific and Production Association "Electronmash" was oriented by the Ministry of Instrument Building of the USSR to produce machines of the SM ECM type" - http://ukrainiancomputing.info/PHOTOS/SM-4.html
@@ -88,11 +88,11 @@ This was harder to do than it seems in those days because of the planned economy
 [^3]: Not many of the readers probably know the true meaning behind the word “arranged" in the previous sentence, but it certainly required ingenuity and creativity in negotiation. Although, I truly believe, Mark's ability to manifest those "deals" practically out of thin air are really as a result of many factors, which included passion, necessity, and LUCK.
 
 
-Besides the parts, Mark needed people to work on the system and develop specialised 
+Besides the parts, Mark needed people to work on the system and develop specialised
 software. People today talk about a shortage of software engineers, but this is a far cry from the reality of those days. There were only a handful of professional software
-developers, the concept foreign in the region[^4]. In the beginning, Mark only had one developer. He then convinced a few of the researchers and developers come back with him from Kiev to Moldova to help him set up the system and help bootstrap it. 
+developers, the concept foreign in the region[^4]. In the beginning, Mark only had one developer. He then convinced a few of the researchers and developers come back with him from Kiev to Moldova to help him set up the system and help bootstrap it.
 
-[^4]: This might not be the case in major cities. Places like Kiev (Ukraine), Moskva (Russian) and other major metropolitans were probably ahead of the game. 
+[^4]: This might not be the case in major cities. Places like Kiev (Ukraine), Moskva (Russian) and other major metropolitans were probably ahead of the game.
 
 #MVP
 
@@ -104,11 +104,11 @@ Next, Mark needed to come up with some ideas to prove the power of this initiati
 </figcaption></figure>
 
 
-Mark thought, well he was convinced that there is a better way of doing things. I guess he was eager and needed to prove himself.  He tells me, once he heard that a single machine can do millions of operations in a second, he  knew that people, no matter how many and how good they are will never keep up. This was the future! 
+Mark thought, well he was convinced that there is a better way of doing things. I guess he was eager and needed to prove himself.  He tells me, once he heard that a single machine can do millions of operations in a second, he  knew that people, no matter how many and how good they are will never keep up. This was the future!
 
 His idea in a nutshell: *All information on production, HR etc supplied by the factories and entered into a database which was then used to produce reporting, required calculation, and analysis. So for example, an employee should be able to know what he is paid? what is deducted? what he owns? etc. This is your standard payslip, which at that time didn’t exist. Furthermore, as head of production he wanted to know how much was produced, sold, throw out, etc.*
 
-Mark was told that printing such a slip/report that cross-referenced information from different data sources is practically impossible. He proved them wrong. There was not software for it, so his developers need to create it. 
+Mark was told that printing such a slip/report that cross-referenced information from different data sources is practically impossible. He proved them wrong. There was not software for it, so his developers need to create it.
 
 In hindsight this might seem obvious, especially today but back then replacing a human with a computer was almost inconceivable. Many opposed the idea; afraid that they will lose their jobs (or worse). Sounds familiar? :)
 
@@ -127,13 +127,13 @@ So things were starting to go really well. His team grew. He had an operational 
 
 In his business statement, he tried to be as vague as possible as to what is the core business value proposition. Obviously he wanted to continue with producing reports but he had bigger  plans. He wanted to completely replace people on the production floor. *Industrial IoT anyone?* You would think these weren't science fiction thoughts at the time, but he actually had quite a realistic plan on how to set the whole thing up and even started experimenting  -- this is quite unbelievable for 1989!
 
-Remember, all of this was done without any real physical infrastructure in place: all the needed documentation/information was collected, and manually inputted using the terminals. Once the information was in, the software was able to produce reports that the head of factories and HR couldn't even dream about. 
+Remember, all of this was done without any real physical infrastructure in place: all the needed documentation/information was collected, and manually inputted using the terminals. Once the information was in, the software was able to produce reports that the head of factories and HR couldn't even dream about.
 
-Oh, yes, he needed a new machine for the now separate venture, the one he had refurbished remained in the factory. As mentioned, such machines were incredibly expensive. The power of authority would only take thus far, but his now friends in Elektronmash came through and lent him their testing machine (for "temporal usage"). This was the next SM model, SM-1420! They also came back with him to once again to set and configure it. I presume, seeing their beloved machine in action, was really important to them. 
+Oh, yes, he needed a new machine for the now separate venture, the one he had refurbished remained in the factory. As mentioned, such machines were incredibly expensive. The power of authority would only take thus far, but his now friends in Elektronmash came through and lent him their testing machine (for "temporal usage"). This was the next SM model, SM-1420! They also came back with him to once again to set and configure it. I presume, seeing their beloved machine in action, was really important to them.
 
 Things were starting to heat up. Mark was getting more demand for his services, and by then he was competing with Central Statistical Administration  (Russian: Центральное Статистическое Управление). His equipment was superior, he had better software and was able to provide a much better service.
 
-He also believed in education and insisted that students from the school in the area come to his lab to work on computers. The school had very old, almost primitive  [Robotron](https://ru.wikipedia.org/wiki/Robotron) computers, Mark wanted them to program on something that's a bit closer to the state of the art. You can imagine that computer subjects weren't very popular, more like a side project. It took some convincing and explaining to the head of the school, but eventually students came. 
+He also believed in education and insisted that students from the school in the area come to his lab to work on computers. The school had very old, almost primitive  [Robotron](https://ru.wikipedia.org/wiki/Robotron) computers, Mark wanted them to program on something that's a bit closer to the state of the art. You can imagine that computer subjects weren't very popular, more like a side project. It took some convincing and explaining to the head of the school, but eventually students came.
 He also made efforts to computerize the school itself by arranging better computers and even installed an electronic whiteboard that would display questions and students could pick the right answer using a specially designed ruler. WOW!
 
 Mark continues to run the start-up until the mid-90s, when things in the country got really shaky. RHYTHM closed its operations on June 15, 1990.
@@ -149,7 +149,7 @@ Mark continues to run the start-up until the mid-90s, when things in the country
 
 #P.S.
 
-I am sure that there were other entrepreneurs at the time. It would be great to hear their stories. In my eyes, these people embody the true meaning of the word *entrepreneurship*. In times of great uncertainty and turmoil, they took great risks, often with little financial reward in the name of making things better by solving problems within their respective societies. We can all learn from their stories. 
+I am sure that there were other entrepreneurs at the time. It would be great to hear their stories. In my eyes, these people embody the true meaning of the word *entrepreneurship*. In times of great uncertainty and turmoil, they took great risks, often with little financial reward in the name of making things better by solving problems within their respective societies. We can all learn from their stories.
 
 
 
