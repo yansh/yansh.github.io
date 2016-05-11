@@ -25,7 +25,7 @@ I decided to explore the topic a bit deeper, starting with this post. Interestin
 
 In this post, I would like to point out some of these points and hope to dive deep into the story in the subsequent posts.
 
-#Opportunity
+# Opportunity
 
 The mere idea of attempting a private venture in USSR was only possible due to new reforms that were introduced by Gorbachev. In particular, The Law on Cooperatives, that was introduced in 1987:
 
@@ -43,7 +43,7 @@ Even though he didn't really know the nuts and bolts of computing[^8], these pas
 
 [^8]: Though he tells me, he was at some point coding an assignment on Nairi.
 
-#Pitch
+# Pitch
 
 So after a short while, he was really keen to know what the machine in that room
 is able to do. He asked the head of the factory then to create a new center for computing that will be in charge of delivering new innovations. Yes, you heard me, computer center for innovation in a Soviet republic!
@@ -94,7 +94,7 @@ developers, the concept foreign in the region[^4]. In the beginning, Mark only h
 
 [^4]: This might not be the case in major cities. Places like Kiev (Ukraine), Moskva (Russian) and other major metropolitans were probably ahead of the game.
 
-#MVP
+# MVP
 
 Next, Mark needed to come up with some ideas to prove the power of this initiative. By that time, after spending few years in the factory, he was exposed to many problems. He tells me that he became particularly frustrated with the accounting and HR departments. As young head of production, Mark was shocked with some of the inefficiency in the overall operations. They were using counting frames (see the image) and paper for their calculations. Yes, counting frames!  
 
@@ -147,7 +147,7 @@ Mark continues to run the start-up until the mid-90s, when things in the country
 
 
 
-#P.S.
+# P.S.
 
 I am sure that there were other entrepreneurs at the time. It would be great to hear their stories. In my eyes, these people embody the true meaning of the word *entrepreneurship*. In times of great uncertainty and turmoil, they took great risks, often with little financial reward in the name of making things better by solving problems within their respective societies. We can all learn from their stories.
 
