@@ -6,6 +6,17 @@ search_omit: true
 ---
 <ul class="post-list">
 
+
+
+<li><article>
+<a href="https://arxiv.org/pdf/1601.04740v4.pdf" target="_blank" >Crowdsourced, Actionable and Verifiable Contextual Informational Norms
+<span class="entry-date">2016</span>
+<span class="excerpt">Yan Shvartzshnaider, Schrasing Tong, Thomas Wies, Paula Kift, Helen Nissenbaum, Lakshminarayanan Subramanian, Prateek Mittal</span>
+</a>
+</article>
+</li>
+
+
 <li><article>
 <a href="http://dl.acm.org/citation.cfm?id=2676735" target="_blank" >Moana: a case for redefining the internet service abstraction
 <span class="entry-date">2014</span>
