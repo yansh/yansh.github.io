@@ -12,7 +12,7 @@ share: true
 comments: true
 ---
 
-#IDA: Intent-driven applications
+# IDA: Intent-driven applications
 
 I have been thinking about IDA for some time now. The idea is still fresh and requires some refinement. This is why I think writing about it in a blog can help clarity it to myself. Your feedback is most welcome. This post is subject to change :)
 
