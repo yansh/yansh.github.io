@@ -6,7 +6,7 @@ share: true
 categories: articles
 modified: ""
 date: "2016-03-07T10:03:05-04:00"
-excerpt: "there are 10 kinds of people, those who read binary and those don’t"
+excerpt: "there are 10 kinds of people, those who read binary and those who don’t"
 comments: true
 tags:
   - Diversity
