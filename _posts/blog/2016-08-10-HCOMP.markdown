@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms"
+categories: blog
+excerpt: "HCOMP paper"
+tags: Crowdsourcing, Research Paper, Contextual integrity
+share: true
+comments: true
+image:
+  feature:
+date: 2016-08-10
+---
+
+# Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms
+*Yan Shvartzshnaider, Schrasing Tong, Thomas Wies, Paula Kift, Helen Nissenbaum, Lakshminarayanan Subramanian, Prateek Mittal*
+
+## Abstract
+
+Designing programmable privacy logic frameworks that correspond
+to social, ethical, and legal norms has been a fundamentally
+hard problem. Contextual integrity (CI) (Nissenbaum,
+2010) offers a model for conceptualizing privacy
+that is able to bridge technical design with ethical, legal, and
+policy approaches. While CI is capable of capturing the various
+components of contextual privacy in theory, it is challenging
+to discover and formally express these norms in operational
+terms.
+
+In the following, we propose a crowdsourcing method for the
+automated discovery of contextual norms. To evaluate the effectiveness
+and scalability of our approach, we conducted an
+extensive survey on Amazon’s Mechanical Turk (AMT) with
+more than 450 participants and 1400 questions. The paper
+has three main takeaways: First, we demonstrate the ability
+to generate survey questions corresponding to privacy norms
+within any context. Second, we show that crowdsourcing enables
+the discovery of norms from these questions with strong
+majoritarian consensus among users. Finally, we demonstrate
+how the norms thus discovered can be encoded into a formal
+logic to automatically verify their consistency.
+
+## Questions Dataset
+
+You can download the survey questions in alongside with the used CI parameters in a csv format from [here]({{ site.url }}/resources/survey_questions.csv).
