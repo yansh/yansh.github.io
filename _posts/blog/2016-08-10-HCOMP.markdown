@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms"
-categories: blog
+categories: page
 excerpt: "HCOMP paper"
-tags: Crowdsourcing, Research Paper, Contextual integrity
+tags: Crowdsourcing Research Paper Contextual integrity
 share: true
 comments: true
 image:
@@ -11,8 +11,11 @@ image:
 date: 2016-08-10
 ---
 
-# Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms
+
 *Yan Shvartzshnaider, Schrasing Tong, Thomas Wies, Paula Kift, Helen Nissenbaum, Lakshminarayanan Subramanian, Prateek Mittal*
+
+
+Paper to appear in the proceedings of [the Fourth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2016)](http://www.humancomputation.com/2016/) will be held October 30 - November 3, 2016 in Austin, TX, USA.
 
 ## Abstract
 
