@@ -1,6 +1,6 @@
 ---
-layout: page
-title:
+layout: plain
+title: Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms
 categories: papers
 excerpt: "HCOMP paper"
 tags: Crowdsourcing Research Paper Contextual integrity
@@ -11,7 +11,6 @@ image:
 date: 2016-08-10
 ---
 
-# Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms
 **by** *Yan Shvartzshnaider, Schrasing Tong, Thomas Wies, Paula Kift, Helen Nissenbaum, Lakshminarayanan Subramanian, Prateek Mittal*
 
 
@@ -42,7 +41,9 @@ majoritarian consensus among users. Finally, we demonstrate
 how the norms thus discovered can be encoded into a formal
 logic to automatically verify their consistency.
 
-## Questions Dataset
+### Datasets
+
+We release the dataset used in presented by us in paper analysis.
 
 You can download the survey questions in alongside with the used CI parameters in a csv format from [here]({{ site.url }}/resources/survey_questions.csv).
 
