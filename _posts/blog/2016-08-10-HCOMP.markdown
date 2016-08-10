@@ -43,6 +43,6 @@ logic to automatically verify their consistency.
 
 ### Datasets
 
-* [Surveys with users responses]({{ site.url }}/resources/surveys.zip)
+* [Surveys with users responses]({{ site.url }}/resources/surveys.zip): Includes all 16 surveys with individual users' responses.
 
-* [All survey questions]({{ site.url }}/resources/survey_questions.csv).
+* [All survey questions]({{ site.url }}/resources/survey_questions.csv): All the question across all the surveys with assiciated to them CI parameters.
