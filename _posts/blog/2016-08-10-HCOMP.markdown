@@ -3,7 +3,7 @@ layout: plain
 title: Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms
 categories: papers
 excerpt: "HCOMP paper"
-tags: Crowdsourcing Research Paper Contextual integrity
+tags:  Research Paper Crowdsourcing Contextual Integrity
 share: true
 comments: true
 image:
@@ -45,4 +45,4 @@ logic to automatically verify their consistency.
 
 * [Surveys with users responses]({{ site.url }}/resources/surveys.zip): Includes all 16 surveys with individual users' responses.
 
-* [All survey questions]({{ site.url }}/resources/survey_questions.csv): All the question across all the surveys with assiciated to them CI parameters.
+* [All survey questions]({{ site.url }}/resources/survey_questions.csv): Questions used across all the surveys with associated to them CI parameters.
