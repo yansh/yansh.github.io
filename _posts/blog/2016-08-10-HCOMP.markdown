@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms"
-categories: page
+categories: papers
 excerpt: "HCOMP paper"
 tags: Crowdsourcing Research Paper Contextual integrity
 share: true
