@@ -42,3 +42,5 @@ logic to automatically verify their consistency.
 ## Questions Dataset
 
 You can download the survey questions in alongside with the used CI parameters in a csv format from [here]({{ site.url }}/resources/survey_questions.csv).
+
+You can also download all the surveys with user responses [here]({{ site.url }}/resources/surveys.zip)
