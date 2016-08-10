@@ -43,8 +43,6 @@ logic to automatically verify their consistency.
 
 ### Datasets
 
-We release the dataset used in presented by us in paper analysis.
-
 * [Surveys with users responses]({{ site.url }}/resources/surveys.zip)
 
 * [All survey questions]({{ site.url }}/resources/survey_questions.csv).
