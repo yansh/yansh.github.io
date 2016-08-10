@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: page
 title:
 categories: papers
 excerpt: "HCOMP paper"
