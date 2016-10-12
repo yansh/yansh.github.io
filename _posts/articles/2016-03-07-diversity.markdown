@@ -14,21 +14,21 @@ tags:
 title: Diversity
 ---
 
-I guess the desire to be surrounded by common to us people is embedded in us by
+I guess the desire to be surrounded by common people is embedded in us by
 evolution. We survive by sticking together in a family, tribe. Presumably,
-this is also why we feel comfortable being surrounded by less diverse to us
+this is also why we feel comfortable being surrounded by a less diverse 
 crowd. In this context, new or unfamiliar means "danger". These questions are
-being investigated by much smarter people than me, though I cannot help but to
+being investigated by much smarter people than me, though I cannot help but 
 speculate that it is not what nature has initially intended for us. More so,
 this type of approach has hindered and in many ways continues to stall our
 progress quite significantly. If we think about it, sharing, trading and
-mingling with other cultures really brought the best of us. Once we discovered
-ways to commute and, more importantly, communicate with other we reached new
+mingling with other cultures really brought out the best in us. Once we discovered
+ways to commute and, more importantly, communicate with others we reached new
 heights on all fronts. So it seems any challenges that might be associated with
 the new, different and unknown, even ultimately dangerous at times, really tend
 to make us push our limits and establish a new norm, typically a better one. So
 whenever we are "comfortable" in our surroundings and "satisfied", we are in
-danger of missing out on truly maximising our potential, as people, group,
+danger of missing out on truly maximizing our potential, as people, group,
 society.
 
 I see some resemblance to local vs global maxima problem in mathematics, i.e.,
