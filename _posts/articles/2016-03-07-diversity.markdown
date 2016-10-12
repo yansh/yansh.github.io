@@ -42,7 +42,7 @@ the possible values of this complex function, I think we would discover that we
 really need diversity to reach its global maxima.
 
 To strengthen my point, I think it is useful to look at a domain such as
-Engineering. To me, this is a great example on how diversity can be used to
+Engineering. To me, this is a great example of how diversity can be used to
 build larger and bigger things. We designed systems that are capable of doing
 incredible things. We devised complex theories and have shown that by combining
 a mixture of very diverse techniques and methodologies facilitates a path to
@@ -59,7 +59,7 @@ sometimes be misinterpreted as an unwanted thing.
 
 While building systems, as engineers we think of the "big picture": finding ways
 for different components to work together to make a better system, as people,
-out side engineering, we tend to be happy with the "local maxima". In other
+outside engineering, we tend to be happy with the "local maxima". In other
 words, as designers and engineers we embrace and even seek diversity, however,
 collectively as humanity we seem to be afraid of it or challenge its benefits.
 
