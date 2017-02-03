@@ -16,6 +16,8 @@ date: 2016-08-10
 
 This paper will appear in the proceedings of [the Fourth AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2016)](http://www.humancomputation.com/2016/).
 
+> *NEW* [Freedom to Tinker post about this work.](https://freedom-to-tinker.com/2016/10/31/learning-privacy-expectations-by-crowdsourcing-contextual-informational-norms/)
+
 ## Abstract
 
 Designing programmable privacy logic frameworks that correspond
