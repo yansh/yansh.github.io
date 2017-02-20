@@ -7,9 +7,9 @@ search_omit: true
 <ul class="post-list">
 
 <li><article>
-<a href="" target="_blank" >Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms
+<a href="https://privaci.github.io/papers/hcomp_paper.pdf" target="_blank" >Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms
 <span class="entry-date">2016</span>
-<span class="excerpt">Yan Shvartzshnaider, Schrasing Tong, Thomas Wies, Paula Klift, Helen Nissenbaum, Lakshminarayanan Subramanian, Prateek Mittal in Proceedings of the Fourth AAAI Conference on Human Computation and Crowdsourcing (HCOMP) 
+<span class="excerpt">Yan Shvartzshnaider, Schrasing Tong, Thomas Wies, Paula Klift, Helen Nissenbaum, Lakshminarayanan Subramanian, Prateek Mittal in Proceedings of the Fourth AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
 </span>
 </a>
 </article>
