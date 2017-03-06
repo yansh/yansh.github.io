@@ -6,7 +6,7 @@ share: true
 categories: articles
 modified: ""
 date: "2016-03-07T10:03:05-04:00"
-excerpt: ""We shrink from change; yet is there anything that can come into being without it?""
+excerpt: "We shrink from change; yet is there anything that can come into being without it?"
 comments: true
 tags:
   - Diversity
