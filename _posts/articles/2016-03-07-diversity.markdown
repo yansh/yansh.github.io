@@ -6,13 +6,15 @@ share: true
 categories: articles
 modified: ""
 date: "2016-03-07T10:03:05-04:00"
-excerpt: "there are 10 kinds of people, those who read binary and those who don’t"
+excerpt: ""We shrink from change; yet is there anything that can come into being without it?""
 comments: true
 tags:
   - Diversity
   - Engineering
 title: Diversity
 ---
+
+> We shrink from change; yet is there anything that can come into being without it? -- Marcus Aurelius
 
 I guess the desire to be surrounded by common people is embedded in us by
 evolution. We survive by sticking together in a family, tribe. Presumably,
