@@ -6,6 +6,15 @@ search_omit: true
 ---
 <ul class="post-list">
 
+li><article>
+<a href="" target="_blank" >"It Takes a Village": A Community Based Participatory Framework for Privacy Design
+<span class="entry-date">2018</span>
+<span class="excerpt">Darakhshan Mir, Mark Latonero and <b>Yan Shvartzshnaider</b> in  Proceedings of theInternational Workshop on Privacy Engineering (IWPE)
+</span>
+</a>
+</article>
+</li>
+
 <li><article>
 <a href="https://privaci.github.io/papers/hcomp_paper.pdf" target="_blank" >Learning Privacy Expectations by Crowdsourcing Contextual Informational Norms
 <span class="entry-date">2016</span>
