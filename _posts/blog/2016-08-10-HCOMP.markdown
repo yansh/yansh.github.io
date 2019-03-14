@@ -9,6 +9,7 @@ comments: true
 image:
   feature:
 date: 2016-08-10
+permalink: papers/HCOMP/
 ---
 
 **by** *Yan Shvartzshnaider, Schrasing Tong, Thomas Wies, Paula Kift, Helen Nissenbaum, Lakshminarayanan Subramanian, Prateek Mittal*
