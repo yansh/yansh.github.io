@@ -1,0 +1,34 @@
+# Authors
+
+billy_rick:
+  name: Billy Rick
+  web: http://thewhip.com
+  email: billy@rick.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  twitter: extravagantman
+  google:
+    plus: BillyRick
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
+
+Max:
+  name: Max Ott
+  web: http://www.nicta.com.au/people/mott/
+  email:
+  bio: "I am interested in cross-disciplinary solutions to challenging large-scale “information logistics” problems facing people and industry today and then translating that into viable businesses."
+  avatar: bio-photo-2.jpg
+  twitter: max_ott
+
+Yan:
+  name: Yan
+  avatar: myphoto.jpg
+  email: yansh@gmx.net
+  twitter: Abrahadabra

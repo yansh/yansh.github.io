@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Essays
+  url: /articles/
+
+- title: Research papers
+  url: /papers/
+
+- title: Blog
+  url: /blog/
+
+- title: Search
+  url: /search/

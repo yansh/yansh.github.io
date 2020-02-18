@@ -1,115 +1,56 @@
-# main text of home
-name: Yan Shvartzshnaider
-bio:  NYU
+# Site wide configuration
 
-# twitter summary info
-description: Research and Teaching
+title: (Y) NOTes
+locale: en_US
+description: thoughts, ideas, tips, obseravtion and other random stuff
+#logo: myphoto.jpg
+search: true
+url: http://yansh.github.io
+#url: http://localhost:4000
 
-# if it's an external image, update below for true
-# better with square images
-external-image: false
-picture: assets/images/profile.jpg
+# Jekyll configuration
 
-# If you want to include your resume, set to true
-# and specify source (external or local).
-#resume: false
-#resume-external: true
-#resume-url: https://google.com/?q=my+resume
-
-#url: http://cs.nyu.edu/~yansh
-url: https://yansh.github.io
-
-permalink: /:title/
-
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories:  # only show disqus for posts that have these categories
-
-# if you don't have any of social below, comment the line
-#facebook: myfacebook
-twitter: ynotez
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-linkedin: yansh
-# youtube: myyoutube
-# spotify: myspotify
-github: yansh
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-#medium: medium
-# vimeo: myvimeo
-email: yansh@cims.nyu.edu
-
-#authors:
-#    johndoe:
-#        name: John Doe
-#        bio: A Man who travels the world eating noodles
-        #external-image: false
-        #picture: assets/images/profile.jpg
-        #twitter: johndoe
-    #jamesfoster:
-        #name: James Foster
-        #bio: A Man who develops software with coffee
-        #external-image: false
-        #picture: assets/images/james.jpg
-        #twitter: jamesfoster
-
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: normal
-
-# if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
-
-# if you don't need teaching, comment the *teaching* configs below
-teaching: true
-
-
-publications: true
-
-blogposts: true
-
-# if you don't need "about" or "blog", comment them out below
-about: true
-
-blog: false
-
-# do you want to show the "read time" of the posts?
-#read-time: true
-
-# do you want to show the "tags" inside the posts?
-#show-tags: true
-
-# related posts inside a post?
-#related: true
-
-# Display links for next and previous posts for the specified categories
-#post-advance-links: [blog]
-
-# show author block at the end of a post ?
-#show-author: true
-
-# do you want some animations?
-animation: true
-
+permalink:   /:categories/:title/
+markdown:    kramdown
+redcarpet:
+    extensions: [footnotes]
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
 gems:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  #- jemoji
+  - jekyll-sitemap
 
-jekyll-mentions:
-    base_url: https://github.com
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Yan
+  avatar: myphoto.jpg
+  email: yansh@gmx.net
+  disqus-shortname: ynotes
+  twitter: ynotez
+  facebook: #username
+  github: yansh
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  google:
+    plus: #username
+    analytics: UA-60628110-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
